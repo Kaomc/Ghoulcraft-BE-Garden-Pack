@@ -1,0 +1,365 @@
+//bridge-file-version: #8
+{
+	"format_version": [
+		1,
+		1,
+		0
+	],
+	"ghoulcraft:pepper_green": {
+		"sound": "bamboo_sapling"
+	},
+	"ghoulcraft:pepper_red": {
+		"sound": "bamboo_sapling"
+	},
+	"ghoulcraft:pepper_yellow": {
+		"sound": "bamboo_sapling"
+	},
+	"ghoulcraft:picnic_basket": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:picnicblanket_red": {
+		"sound": "cloth"
+	},
+	"ghoulcraft:picnicblanket_pink": {
+		"sound": "cloth"
+	},
+	"ghoulcraft:jalapeno": {
+		"sound": "bamboo_sapling"
+	},
+	"ghoulcraft:chili": {
+		"sound": "bamboo_sapling"
+	},
+	"ghoulcraft:tomato": {
+		"sound": "bamboo_sapling"
+	},
+	"ghoulcraft:eggplant": {
+		"sound": "bamboo_sapling"
+	},
+	"ghoulcraft:onion": {
+		"sound": "bamboo_sapling"
+	},
+	"ghoulcraft:lettuce": {
+		"sound": "bamboo_sapling"
+	},
+	"ghoulcraft:cornfield": {
+		"sound": "bamboo_sapling"
+	},
+	"ghoulcraft:blueberrybush": {
+		"sound": "sweet_berry_bush"
+	},
+	"ghoulcraft:strawberrybush": {
+		"sound": "sweet_berry_bush"
+	},
+	"ghoulcraft:stump_mossy_acacia": {
+		"sound": "wood"
+	},
+	"ghoulcraft:stump_mossy_birch": {
+		"sound": "wood"
+	},
+	"ghoulcraft:stump_mossy_dark": {
+		"sound": "wood"
+	},
+	"ghoulcraft:stump_mossy_jungle": {
+		"sound": "wood"
+	},
+	"ghoulcraft:stump_mossy_oak": {
+		"sound": "wood"
+	},
+	"ghoulcraft:stump_mossy_spruce": {
+		"sound": "wood"
+	},
+	"ghoulcraft:barrelgreengrape": {
+		"sound": "wood"
+	},
+	"ghoulcraft:barrelredgrape": {
+		"sound": "wood"
+	},
+	"ghoulcraft:barrelpurplegrape": {
+		"sound": "wood"
+	},
+	"ghoulcraft:basket_empty": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:grapes_green": {
+		"sound": "bamboo_sapling"
+	},
+	"ghoulcraft:grapes_red": {
+		"sound": "bamboo_sapling"
+	},
+	"ghoulcraft:grapes_purple": {
+		"sound": "bamboo_sapling"
+	},
+	"ghoulcraft:windowbox": {
+		"sound": "wood"
+	},
+	"ghoulcraft:windowbox_allium": {
+		"sound": "wood"
+	},
+	"ghoulcraft:windowbox_azure": {
+		"sound": "wood"
+	},
+	"ghoulcraft:windowbox_cornflower": {
+		"sound": "wood"
+	},
+	"ghoulcraft:windowbox_daisy": {
+		"sound": "wood"
+	},
+	"ghoulcraft:windowbox_dandelion": {
+		"sound": "wood"
+	},
+	"ghoulcraft:windowbox_lilac": {
+		"sound": "wood"
+	},
+	"ghoulcraft:windowbox_wtulip": {
+		"sound": "wood"
+	},
+	"ghoulcraft:windowbox_brownm": {
+		"sound": "wood"
+	},
+	"ghoulcraft:windowbox_lily": {
+		"sound": "wood"
+	},
+	"ghoulcraft:windowbox_orchid": {
+		"sound": "wood"
+	},
+	"ghoulcraft:windowbox_otulip": {
+		"sound": "wood"
+	},
+	"ghoulcraft:windowbox_peony": {
+		"sound": "wood"
+	},
+	"ghoulcraft:windowbox_poppy": {
+		"sound": "wood"
+	},
+	"ghoulcraft:windowbox_ptulip": {
+		"sound": "wood"
+	},
+	"ghoulcraft:windowbox_redm": {
+		"sound": "wood"
+	},
+	"ghoulcraft:windowbox_rose": {
+		"sound": "wood"
+	},
+	"ghoulcraft:windowbox_rtulip": {
+		"sound": "wood"
+	},
+	"ghoulcraft:windowbox_wrose": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sprouts1": {
+		"sound": "metal"
+	},
+	"ghoulcraft:sprouts2": {
+		"sound": "metal"
+	},
+	"ghoulcraft:sprouts3": {
+		"sound": "metal"
+	},
+	"ghoulcraft:succulents_purple": {
+		"sound": "glass"
+	},
+	"ghoulcraft:succulents_green": {
+		"sound": "glass"
+	},
+	"ghoulcraft:succulents_tray": {
+		"sound": "metal"
+	},
+	"ghoulcraft:pinksucc_double": {
+		"sound": "glass"
+	},
+	"ghoulcraft:pinksucc_shortfat": {
+		"sound": "glass"
+	},
+	"ghoulcraft:ficus": {
+		"sound": "glass"
+	},
+	"ghoulcraft:palmtree": {
+		"sound": "glass"
+	},
+	"ghoulcraft:cattail": {
+		"sound": "bamboo_sapling"
+	},
+	"ghoulcraft:gardenbench": {
+		"sound": "wood"
+	},
+	"ghoulcraft:fertilizer": {
+		"sound": "nether_wart"
+	},
+	"ghoulcraft:shutter_acacia": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:shutter_birch": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:shutter_dark": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:shutter_jungle": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:shutter_oak": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:shutter_spruce": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:shutter_black": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:shutter_blue": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:shutter_brown": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:shutter_cyan": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:shutter_green": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:shutter_gray": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:shutter_lgray": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:shutter_lblue": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:shutter_lime": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:shutter_orange": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:shutter_magenta": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:shutter_pink": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:shutter_purple": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:shutter_red": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:shutter_white": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:shutter_yellow": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:awning_black": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:awning_blue": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:awning_brown": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:awning_cyan": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:awning_green": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:awning_gray": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:awning_lgray": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:awning_lblue": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:awning_lime": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:awning_orange": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:awning_magenta": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:awning_pink": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:awning_purple": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:awning_red": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:awning_white": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:awning_yellow": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:sawning_black": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:sawning_blue": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:sawning_brown": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:sawning_cyan": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:sawning_green": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:sawning_gray": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:sawning_lgray": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:sawning_lblue": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:sawning_lime": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:sawning_orange": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:sawning_magenta": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:sawning_pink": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:sawning_purple": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:sawning_red": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:sawning_yellow": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:greenhouse_acacia": {
+		"sound": "wood"
+	},
+	"ghoulcraft:greenhouse_birch": {
+		"sound": "wood"
+	},
+	"ghoulcraft:greenhouse_dark": {
+		"sound": "wood"
+	},
+	"ghoulcraft:greenhouse_jungle": {
+		"sound": "wood"
+	},
+	"ghoulcraft:greenhouse_oak": {
+		"sound": "wood"
+	},
+	"ghoulcraft:greenhouse_spruce": {
+		"sound": "wood"
+	}
+}

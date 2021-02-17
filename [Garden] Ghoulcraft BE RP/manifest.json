@@ -1,0 +1,40 @@
+//bridge-file-version: #0
+{
+	"format_version": 2,
+	"header": {
+		"name": "[Garden] Ghoulcraft BE xx-xx-xx",
+		"description": "§l§3Ignore the warning! §r- Version: xx-xx-xx",
+		"uuid": "7eeb8e1f-cc65-4c16-8f30-11d9f3d797f2",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			13,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "83425478-7846-494b-9b21-b7ea2289d4a7",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"version": [
+				1,
+				0,
+				0
+			],
+			"uuid": "bb63fde3-d3f6-481a-acc2-530233594506"
+		}
+	]
+}

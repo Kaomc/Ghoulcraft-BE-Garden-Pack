@@ -1,0 +1,159 @@
+##bridge-file-version: #8
+##=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+##Created By: Kao
+##Contact: https://linktr.ee/kaomc
+##Translations needs express permission from MissGhouls/Kao.
+##Do not redistribute & claim as your own.
+##Re-printing is not allowed.
+##For more info, refer to [Readme.txt] & [GhoulcraftTOU.txt]
+##=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+##Plants & Crops
+
+tile.ghoulcraft:barrelgreengrape.name=Barrel of Green Grapes
+tile.ghoulcraft:barrelpurplegrape.name=Barrel of Purple Grapes
+tile.ghoulcraft:barrelredgrape.name=Barrel of Red Grapes 
+
+tile.ghoulcraft:grapes_green.name=Green Grape Vines
+tile.ghoulcraft:grapes_purple.name=Purple Grape Vines
+tile.ghoulcraft:grapes_red.name=Red Grape Vines
+
+tile.ghoulcraft:blueberrybush.name=Blueberry Bush 
+tile.ghoulcraft:strawberrybush.name=Strawberry Bush
+
+tile.ghoulcraft:chili.name=Chili Crop
+tile.ghoulcraft:cornfield.name=Cornfield 
+tile.ghoulcraft:eggplant.name=Eggplant Crop
+tile.ghoulcraft:jalapeno.name=Jalapeno Crop
+tile.ghoulcraft:lettuce.name=Lettuce Crop
+tile.ghoulcraft:onion.name=Onion Crop
+tile.ghoulcraft:tomato.name=Tomato Trellis
+
+tile.ghoulcraft:pepper_green.name=Green Pepper Crop
+tile.ghoulcraft:pepper_red.name=Red Pepper Crop
+tile.ghoulcraft:pepper_yellow.name=Yellow Pepper Crop 
+
+tile.ghoulcraft:sprouts1.name=Tall Seedlings
+tile.ghoulcraft:sprouts2.name=Wheat Seedlings
+tile.ghoulcraft:sprouts3.name=Grass Seedlings
+
+tile.ghoulcraft:succulents_green.name=Purple Succulents
+tile.ghoulcraft:succulents_purple.name=Green Succulents
+tile.ghoulcraft:succulents_tray.name=Tray of Succulents
+tile.ghoulcraft:pinksucc_double.name=Tall Pink Succulents
+tile.ghoulcraft:pinksucc_shortfat.name=Short Pink Succulent
+
+tile.ghoulcraft:ficus.name=Ficus Tree
+tile.ghoulcraft:palmtree.name=Potted Palm Tree
+tile.ghoulcraft:cattail.name=Cattail
+
+##Decorations
+
+tile.ghoulcraft:picnic_basket.name=Picnic Basket
+tile.ghoulcraft:basket_empty.name=Empty Basket 
+
+tile.ghoulcraft:picnicblanket_pink.name=Pink Picnic Blanket
+tile.ghoulcraft:picnicblanket_red.name=Red Picnic Blanket
+
+tile.ghoulcraft:stump_mossy_acacia.name=Mossy Acacia Stump 
+tile.ghoulcraft:stump_mossy_birch.name=Mossy Birch Stump
+tile.ghoulcraft:stump_mossy_dark.name=Mossy Dark Oak Stump
+tile.ghoulcraft:stump_mossy_jungle.name=Mossy Jungle Stump
+tile.ghoulcraft:stump_mossy_oak.name=Mossy Oak Stump
+tile.ghoulcraft:stump_mossy_spruce.name=Mosyy Spruce Stump
+
+tile.ghoulcraft:windowbox.name=Empty Windowbox
+tile.ghoulcraft:windowbox_allium.name=Allium Windowbox
+tile.ghoulcraft:windowbox_azure.name=Azure Bluet Windowbox
+tile.ghoulcraft:windowbox_brownm.name=Brown Mushroom Windowbox
+tile.ghoulcraft:windowbox_cornflower.name=Cornflower Windowbox
+tile.ghoulcraft:windowbox_daisy.name=Oxeye Daisy Windowbox
+tile.ghoulcraft:windowbox_dandelion.name=Dandelion Windowbox
+tile.ghoulcraft:windowbox_lilac.name=Lilac Windowbox
+tile.ghoulcraft:windowbox_wtulip.name=White Tulip Windowbox
+tile.ghoulcraft:windowbox_lily.name=Flower of The Lily Windowbox
+tile.ghoulcraft:windowbox_orchid.name=Blue Orchid Windowbox
+tile.ghoulcraft:windowbox_otulip.name=Orange Tulip Windowbox
+tile.ghoulcraft:windowbox_peony.name=Peony Windowbox
+tile.ghoulcraft:windowbox_poppy.name=Poppy Windowbox
+tile.ghoulcraft:windowbox_ptulip.name=Pink Tulip Windowbox
+tile.ghoulcraft:windowbox_redm.name=Red Mushroom Windowbox
+tile.ghoulcraft:windowbox_rose.name=Rose Windowbox
+tile.ghoulcraft:windowbox_rtulip.name=Red Tulip Windowbox
+tile.ghoulcraft:windowbox_wrose.name=Wither Rose Windowbox
+tile.ghoulcraft:windowbox_wtulip.name=White Tulip WIndowbox
+
+tile.ghoulcraft:greenhouse_acacia.name=Acacia Greenhouse
+tile.ghoulcraft:greenhouse_birch.name=Birch Greenhouse
+tile.ghoulcraft:greenhouse_dark.name=Dark Oak Greenhouse
+tile.ghoulcraft:greenhouse_jungle.name=Jungle Greenhouse
+tile.ghoulcraft:greenhouse_oak.name=Oak Greenhouse
+tile.ghoulcraft:greenhouse_spruce.name=Spruce Greenhouse
+
+tile.ghoulcraft:gardenbench.name=Garden Bench
+tile.ghoulcraft:fertilizer.name=Fertilizer
+
+##Shutters
+
+tile.ghoulcraft:shutter_acacia.name=Acacia Shutter
+tile.ghoulcraft:shutter_birch.name=Birch Shutter
+tile.ghoulcraft:shutter_dark.name=Dark Oak Shutter
+tile.ghoulcraft:shutter_jungle.name=Jungle Shutter
+tile.ghoulcraft:shutter_oak.name=Oak Shutter
+tile.ghoulcraft:shutter_spruce.name=Spruce Shutter
+
+tile.ghoulcraft:shutter_black.name=Black Shutter
+tile.ghoulcraft:shutter_brown.name=Brown Shutter
+tile.ghoulcraft:shutter_blue.name=Blue Shutter
+tile.ghoulcraft:shutter_cyan.name=Cyan Shutter
+tile.ghoulcraft:shutter_gray.name=Gray Shutter
+tile.ghoulcraft:shutter_green.name=Green Shutter
+tile.ghoulcraft:shutter_lgray.name=Light Gray Shutter
+tile.ghoulcraft:shutter_lblue.name=Light Blue Shutter
+tile.ghoulcraft:shutter_lime.name=Lime Shutter
+tile.ghoulcraft:shutter_orange.name=Orange Shutter
+tile.ghoulcraft:shutter_magenta.name=Magenta Shutter
+tile.ghoulcraft:shutter_pink.name=Pink Shutter
+tile.ghoulcraft:shutter_purple.name=Purple Shutter
+tile.ghoulcraft:shutter_red.name=Red Shutter
+tile.ghoulcraft:shutter_white.name=White Shutter
+tile.ghoulcraft:shutter_yellow.name=Yellow Shutter
+
+##Awnings
+
+tile.ghoulcraft:sawning_black.name=Black Striped Awning
+tile.ghoulcraft:sawning_brown.name=Brown Striped Awning
+tile.ghoulcraft:sawning_blue.name=Blue Striped Awning
+tile.ghoulcraft:sawning_cyan.name=Cyan Striped Awning
+tile.ghoulcraft:sawning_gray.name=Gray Striped Awning
+tile.ghoulcraft:sawning_green.name=Green Striped Awning
+tile.ghoulcraft:sawning_lgray.name=Light Gray Striped Awning
+tile.ghoulcraft:sawning_lblue.name=Light Blue Striped Awning
+tile.ghoulcraft:sawning_lime.name=Lime Striped Awning
+tile.ghoulcraft:sawning_orange.name=Orange Striped Awning
+tile.ghoulcraft:sawning_magenta.name=Magenta Striped Awning
+tile.ghoulcraft:sawning_pink.name=Pink Striped Awning
+tile.ghoulcraft:sawning_purple.name=Purple Striped Awning
+tile.ghoulcraft:sawning_red.name=Red Striped Awning
+tile.ghoulcraft:sawning_yellow.name=Yellow Striped Awning
+
+tile.ghoulcraft:awning_black.name=Black Awning
+tile.ghoulcraft:awning_brown.name=Brown Awning
+tile.ghoulcraft:awning_blue.name=Blue Awning
+tile.ghoulcraft:awning_cyan.name=Cyan Awning
+tile.ghoulcraft:awning_gray.name=Gray Awning
+tile.ghoulcraft:awning_green.name=Green Awning
+tile.ghoulcraft:awning_lgray.name=Light Gray Awning
+tile.ghoulcraft:awning_lblue.name=Light Blue Awning
+tile.ghoulcraft:awning_lime.name=Lime Awning
+tile.ghoulcraft:awning_orange.name=Orange Awning
+tile.ghoulcraft:awning_magenta.name=Magenta Awning
+tile.ghoulcraft:awning_pink.name=Pink Awning
+tile.ghoulcraft:awning_purple.name=Purple Awning
+tile.ghoulcraft:awning_red.name=Red Awning
+tile.ghoulcraft:awning_white.name=White Awning
+tile.ghoulcraft:awning_yellow.name=Yellow Awning
+
+##UI
+
+notice.text=Thank you for using Ghoulcraft BE! To see the catalog of all items in this pack, visit: §3https://ghoulcraft.com/bedrock-catalog
