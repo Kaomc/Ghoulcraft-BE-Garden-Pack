@@ -1,0 +1,260 @@
+{
+	"file_path": "C:\\Users\\gabri\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\[Garden] Ghoulcraft BE BP\\blocks\\cattail.json",
+	"file_type": "block",
+	"format_version": 1,
+	"file_uuid": "5df5f458_c152_4abe_8eb7_e4f144ed72ef",
+	"file_version": 29,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.200",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.200",
+					"minecraft:block": {
+						"description": {
+							"identifier": "ghoulcraft:cattail"
+						},
+						"components": {
+							"minecraft:geometry": "geometry.cattail",
+							"minecraft:material_instances": {
+								"*": {
+									"texture": "cattail",
+									"render_method": "alpha_test"
+								}
+							},
+							"minecraft:entity_collision": {
+								"origin": [
+									0,
+									0,
+									0
+								],
+								"size": [
+									0,
+									0,
+									0
+								]
+							},
+							"minecraft:block_light_emission": 0,
+							"minecraft:block_light_absorption": 0,
+							"bridge:rotate_y_on_place": {
+								"flip": true
+							}
+						}
+					}
+				},
+				"key": "minecraft:block",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "ghoulcraft:cattail"
+							},
+							"components": {
+								"minecraft:geometry": "geometry.cattail",
+								"minecraft:material_instances": {
+									"*": {
+										"texture": "cattail",
+										"render_method": "alpha_test"
+									}
+								},
+								"minecraft:entity_collision": {
+									"origin": [
+										0,
+										0,
+										0
+									],
+									"size": [
+										0,
+										0,
+										0
+									]
+								},
+								"minecraft:block_light_emission": 0,
+								"minecraft:block_light_absorption": 0,
+								"bridge:rotate_y_on_place": {
+									"flip": true
+								}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "ghoulcraft:cattail"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "ghoulcraft:cattail"
+							},
+							"components": {
+								"minecraft:geometry": "geometry.cattail",
+								"minecraft:material_instances": {
+									"*": {
+										"texture": "cattail",
+										"render_method": "alpha_test"
+									}
+								},
+								"minecraft:entity_collision": {
+									"origin": [
+										0,
+										0,
+										0
+									],
+									"size": [
+										0,
+										0,
+										0
+									]
+								},
+								"minecraft:block_light_emission": 0,
+								"minecraft:block_light_absorption": 0,
+								"bridge:rotate_y_on_place": {
+									"flip": true
+								}
+							}
+						},
+						"key": "components",
+						"children": [
+							{
+								"open": {
+									"minecraft:geometry": "geometry.cattail",
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "cattail",
+											"render_method": "alpha_test"
+										}
+									},
+									"minecraft:entity_collision": {
+										"origin": [
+											0,
+											0,
+											0
+										],
+										"size": [
+											0,
+											0,
+											0
+										]
+									},
+									"minecraft:block_light_emission": 0,
+									"minecraft:block_light_absorption": 0,
+									"bridge:rotate_y_on_place": {
+										"flip": true
+									}
+								},
+								"data": "geometry.cattail",
+								"key": "minecraft:geometry"
+							},
+							{
+								"open": {
+									"minecraft:geometry": "geometry.cattail",
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "cattail",
+											"render_method": "alpha_test"
+										}
+									},
+									"minecraft:entity_collision": {
+										"origin": [
+											0,
+											0,
+											0
+										],
+										"size": [
+											0,
+											0,
+											0
+										]
+									},
+									"minecraft:block_light_emission": 0,
+									"minecraft:block_light_absorption": 0,
+									"bridge:rotate_y_on_place": {
+										"flip": true
+									}
+								},
+								"key": "minecraft:material_instances",
+								"children": [
+									{
+										"open": {
+											"*": {
+												"texture": "cattail",
+												"render_method": "alpha_test"
+											}
+										},
+										"key": "*",
+										"is_minified": true,
+										"children": {
+											"texture": "cattail",
+											"render_method": "alpha_test"
+										}
+									}
+								]
+							},
+							{
+								"key": "minecraft:entity_collision",
+								"is_minified": true,
+								"children": {
+									"origin": [
+										0,
+										0,
+										0
+									],
+									"size": [
+										0,
+										0,
+										0
+									]
+								}
+							},
+							{
+								"data": "0",
+								"key": "minecraft:block_light_emission"
+							},
+							{
+								"data": "0",
+								"key": "minecraft:block_light_absorption"
+							},
+							{
+								"open": {
+									"minecraft:geometry": "geometry.cattail",
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "cattail",
+											"render_method": "alpha_test"
+										}
+									},
+									"minecraft:entity_collision": {
+										"origin": [
+											0,
+											0,
+											0
+										],
+										"size": [
+											0,
+											0,
+											0
+										]
+									},
+									"minecraft:block_light_emission": 0,
+									"minecraft:block_light_absorption": 0,
+									"bridge:rotate_y_on_place": {
+										"flip": true
+									}
+								},
+								"key": "bridge:rotate_y_on_place",
+								"is_minified": true,
+								"children": {
+									"flip": true
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

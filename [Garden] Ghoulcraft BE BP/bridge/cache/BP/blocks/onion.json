@@ -1,0 +1,338 @@
+{
+	"file_path": "C:\\Users\\gabri\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\[Garden] Ghoulcraft BE BP\\blocks\\onion.json",
+	"file_type": "block",
+	"format_version": 1,
+	"file_uuid": "6f799476_6cde_4b1e_b305_f06dea138ede",
+	"file_version": 10,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.200",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.200",
+					"minecraft:block": {
+						"description": {
+							"identifier": "ghoulcraft:onion"
+						},
+						"components": {
+							"minecraft:geometry": "geometry.onion",
+							"minecraft:material_instances": {
+								"*": {
+									"texture": "onion",
+									"render_method": "alpha_test"
+								}
+							},
+							"minecraft:pick_collision": {
+								"origin": [
+									-7,
+									0,
+									-7
+								],
+								"size": [
+									14,
+									10,
+									14
+								]
+							},
+							"minecraft:entity_collision": {
+								"origin": [
+									0,
+									0,
+									0
+								],
+								"size": [
+									0,
+									0,
+									0
+								]
+							},
+							"minecraft:block_light_emission": 0,
+							"minecraft:block_light_absorption": 0,
+							"minecraft:breakonpush": true,
+							"bridge:rotate_y_on_place": {
+								"flip": true
+							}
+						}
+					}
+				},
+				"key": "minecraft:block",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "ghoulcraft:onion"
+							},
+							"components": {
+								"minecraft:geometry": "geometry.onion",
+								"minecraft:material_instances": {
+									"*": {
+										"texture": "onion",
+										"render_method": "alpha_test"
+									}
+								},
+								"minecraft:pick_collision": {
+									"origin": [
+										-7,
+										0,
+										-7
+									],
+									"size": [
+										14,
+										10,
+										14
+									]
+								},
+								"minecraft:entity_collision": {
+									"origin": [
+										0,
+										0,
+										0
+									],
+									"size": [
+										0,
+										0,
+										0
+									]
+								},
+								"minecraft:block_light_emission": 0,
+								"minecraft:block_light_absorption": 0,
+								"minecraft:breakonpush": true,
+								"bridge:rotate_y_on_place": {
+									"flip": true
+								}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "ghoulcraft:onion"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "ghoulcraft:onion"
+							},
+							"components": {
+								"minecraft:geometry": "geometry.onion",
+								"minecraft:material_instances": {
+									"*": {
+										"texture": "onion",
+										"render_method": "alpha_test"
+									}
+								},
+								"minecraft:pick_collision": {
+									"origin": [
+										-7,
+										0,
+										-7
+									],
+									"size": [
+										14,
+										10,
+										14
+									]
+								},
+								"minecraft:entity_collision": {
+									"origin": [
+										0,
+										0,
+										0
+									],
+									"size": [
+										0,
+										0,
+										0
+									]
+								},
+								"minecraft:block_light_emission": 0,
+								"minecraft:block_light_absorption": 0,
+								"minecraft:breakonpush": true,
+								"bridge:rotate_y_on_place": {
+									"flip": true
+								}
+							}
+						},
+						"key": "components",
+						"children": [
+							{
+								"open": {
+									"minecraft:geometry": "geometry.onion",
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "onion",
+											"render_method": "alpha_test"
+										}
+									},
+									"minecraft:pick_collision": {
+										"origin": [
+											-7,
+											0,
+											-7
+										],
+										"size": [
+											14,
+											10,
+											14
+										]
+									},
+									"minecraft:entity_collision": {
+										"origin": [
+											0,
+											0,
+											0
+										],
+										"size": [
+											0,
+											0,
+											0
+										]
+									},
+									"minecraft:block_light_emission": 0,
+									"minecraft:block_light_absorption": 0,
+									"minecraft:breakonpush": true,
+									"bridge:rotate_y_on_place": {
+										"flip": true
+									}
+								},
+								"data": "geometry.onion",
+								"key": "minecraft:geometry"
+							},
+							{
+								"open": {
+									"minecraft:geometry": "geometry.onion",
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "onion",
+											"render_method": "alpha_test"
+										}
+									},
+									"minecraft:pick_collision": {
+										"origin": [
+											-7,
+											0,
+											-7
+										],
+										"size": [
+											14,
+											10,
+											14
+										]
+									},
+									"minecraft:entity_collision": {
+										"origin": [
+											0,
+											0,
+											0
+										],
+										"size": [
+											0,
+											0,
+											0
+										]
+									},
+									"minecraft:block_light_emission": 0,
+									"minecraft:block_light_absorption": 0,
+									"minecraft:breakonpush": true,
+									"bridge:rotate_y_on_place": {
+										"flip": true
+									}
+								},
+								"key": "minecraft:material_instances",
+								"children": [
+									{
+										"open": {
+											"*": {
+												"texture": "onion",
+												"render_method": "alpha_test"
+											}
+										},
+										"key": "*",
+										"is_minified": true,
+										"children": {
+											"texture": "onion",
+											"render_method": "alpha_test"
+										}
+									}
+								]
+							},
+							{
+								"key": "minecraft:pick_collision",
+								"children": [
+									{
+										"key": "origin",
+										"is_minified": true,
+										"children": [
+											-7,
+											0,
+											-7
+										]
+									},
+									{
+										"open": {
+											"origin": [
+												-7,
+												0,
+												-7
+											],
+											"size": [
+												14,
+												10,
+												14
+											]
+										},
+										"key": "size",
+										"is_minified": true,
+										"children": [
+											14,
+											10,
+											14
+										]
+									}
+								]
+							},
+							{
+								"key": "minecraft:entity_collision",
+								"is_minified": true,
+								"children": {
+									"origin": [
+										0,
+										0,
+										0
+									],
+									"size": [
+										0,
+										0,
+										0
+									]
+								}
+							},
+							{
+								"data": "0",
+								"key": "minecraft:block_light_emission"
+							},
+							{
+								"data": "0",
+								"key": "minecraft:block_light_absorption"
+							},
+							{
+								"data": "true",
+								"key": "minecraft:breakonpush"
+							},
+							{
+								"key": "bridge:rotate_y_on_place",
+								"is_minified": true,
+								"children": {
+									"flip": true
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

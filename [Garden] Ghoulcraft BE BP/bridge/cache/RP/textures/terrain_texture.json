@@ -1,0 +1,3404 @@
+{
+	"file_path": "C:\\Users\\gabri\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_resource_packs\\[Garden] Ghoulcraft BE RP\\textures\\terrain_texture.json",
+	"file_type": "terrain_texture",
+	"format_version": 1,
+	"file_uuid": "df777573_1834_4741_b508_8b6a1c433380",
+	"file_version": 20,
+	"cache_content": {
+		"children": [
+			{
+				"data": "bridgeRP",
+				"key": "resource_pack_name"
+			},
+			{
+				"data": "atlas.terrain",
+				"key": "texture_name"
+			},
+			{
+				"data": "8",
+				"key": "padding"
+			},
+			{
+				"data": "4",
+				"key": "num_mip_levels"
+			},
+			{
+				"open": {
+					"resource_pack_name": "bridgeRP",
+					"texture_name": "atlas.terrain",
+					"padding": 8,
+					"num_mip_levels": 4,
+					"texture_data": {
+						"crop": {
+							"textures": [
+								"textures/block/crop"
+							]
+						},
+						"pepper": {
+							"textures": [
+								"textures/block/pepper"
+							]
+						},
+						"grapes": {
+							"textures": [
+								"textures/block/grapes"
+							]
+						},
+						"cornfield": {
+							"textures": [
+								"textures/block/cornfield"
+							]
+						},
+						"onion": {
+							"textures": [
+								"textures/block/onion"
+							]
+						},
+						"picnic_basket": {
+							"textures": [
+								"textures/block/picnic_basket"
+							]
+						},
+						"barrelredgrape": {
+							"textures": [
+								"textures/block/barrelredgrape"
+							]
+						},
+						"barrelgreengrape": {
+							"textures": [
+								"textures/block/barrelgreengrape"
+							]
+						},
+						"barrelpurplegrape": {
+							"textures": [
+								"textures/block/barrelpurplegrape"
+							]
+						},
+						"blueberrybush": {
+							"textures": [
+								"textures/block/blueberrybush"
+							]
+						},
+						"strawberrybush": {
+							"textures": [
+								"textures/block/strawberrybush"
+							]
+						},
+						"stump_mossy_acacia": {
+							"textures": [
+								"textures/block/stump_mossy_acacia"
+							]
+						},
+						"stump_mossy_birch": {
+							"textures": [
+								"textures/block/stump_mossy_birch"
+							]
+						},
+						"stump_mossy_dark": {
+							"textures": [
+								"textures/block/stump_mossy_dark"
+							]
+						},
+						"stump_mossy_jungle": {
+							"textures": [
+								"textures/block/stump_mossy_jungle"
+							]
+						},
+						"stump_mossy_oak": {
+							"textures": [
+								"textures/block/stump_mossy_oak"
+							]
+						},
+						"stump_mossy_spruce": {
+							"textures": "textures/block/stump_mossy_spruce"
+						},
+						"tomato": {
+							"textures": [
+								"textures/block/tomato"
+							]
+						},
+						"windowbox_allium": {
+							"textures": [
+								"textures/block/windowbox_allium"
+							]
+						},
+						"windowbox_azure": {
+							"textures": [
+								"textures/block/windowbox_azure"
+							]
+						},
+						"windowbox_brownm": {
+							"textures": [
+								"textures/block/windowbox_brownm"
+							]
+						},
+						"windowbox_cornflower": {
+							"textures": [
+								"textures/block/windowbox_cornflower"
+							]
+						},
+						"windowbox_daisy": {
+							"textures": [
+								"textures/block/windowbox_daisy"
+							]
+						},
+						"windowbox_dandelion": {
+							"textures": [
+								"textures/block/windowbox_dandelion"
+							]
+						},
+						"windowbox_lilac": {
+							"textures": [
+								"textures/block/windowbox_lilac"
+							]
+						},
+						"windowbox_lily": {
+							"textures": "textures/block/windowbox_lily"
+						},
+						"windowbox_orchid": {
+							"textures": [
+								"textures/block/windowbox_orchid"
+							]
+						},
+						"windowbox_otulip": {
+							"textures": [
+								"textures/block/windowbox_otulip"
+							]
+						},
+						"windowbox_peony": {
+							"textures": [
+								"textures/block/windowbox_peony"
+							]
+						},
+						"windowbox_poppy": {
+							"textures": [
+								"textures/block/windowbox_poppy"
+							]
+						},
+						"windowbox_ptulip": {
+							"textures": [
+								"textures/block/windowbox_ptulip"
+							]
+						},
+						"windowbox_rtulip": {
+							"textures": [
+								"textures/block/windowbox_rtulip"
+							]
+						},
+						"windowbox_rose": {
+							"textures": [
+								"textures/block/windowbox_rose"
+							]
+						},
+						"windowbox_redm": {
+							"textures": [
+								"textures/block/windowbox_redm"
+							]
+						},
+						"windowbox_wrose": {
+							"textures": [
+								"textures/block/windowbox_wrose"
+							]
+						},
+						"windowbox_wtulip": {
+							"textures": [
+								"textures/block/windowbox_wtulip"
+							]
+						},
+						"windowbox": {
+							"textures": [
+								"textures/block/windowbox"
+							]
+						},
+						"veggies2": {
+							"textures": [
+								"textures/block/ghoulcraft/veggies2"
+							]
+						},
+						"picnicblanket_red": {
+							"textures": [
+								"textures/block/ghoulcraft/picnicblanket"
+							]
+						},
+						"picnicblanket_pink": {
+							"textures": [
+								"textures/block/ghoulcraft/picnicblanket_pink"
+							]
+						},
+						"basket": {
+							"textures": [
+								"textures/block/ghoulcraft/picnicbasket"
+							]
+						},
+						"sprouts1": {
+							"textures": [
+								"textures/block/sprouts1"
+							]
+						},
+						"sprouts2": {
+							"textures": [
+								"textures/block/sprouts2"
+							]
+						},
+						"sprouts3": {
+							"textures": [
+								"textures/block/sprouts3"
+							]
+						},
+						"succulent1": {
+							"textures": [
+								"textures/block/succulent1"
+							]
+						},
+						"succulent2": {
+							"textures": [
+								"textures/block/succulent2"
+							]
+						},
+						"succulentstray": {
+							"textures": [
+								"textures/block/succulentstray"
+							]
+						},
+						"pinksucc": {
+							"textures": [
+								"textures/block/pinksucc"
+							]
+						},
+						"ficus": {
+							"textures": [
+								"textures/block/ficus"
+							]
+						},
+						"palmtree": {
+							"textures": [
+								"textures/block/palmtree"
+							]
+						},
+						"cattail": {
+							"textures": [
+								"textures/block/ghoulcraft/cattail"
+							]
+						},
+						"fertilizer": {
+							"textures": [
+								"textures/block/ghoulcraft/fertilizer"
+							]
+						},
+						"gardenbench": {
+							"textures": [
+								"textures/block/gardenbench"
+							]
+						},
+						"shutter_black": {
+							"textures": [
+								"textures/block/vanillaarchive/wools_mod/black"
+							]
+						},
+						"shutter_brown": {
+							"textures": [
+								"textures/block/vanillaarchive/wools_mod/brown"
+							]
+						},
+						"shutter_blue": {
+							"textures": [
+								"textures/block/vanillaarchive/wools_mod/blue"
+							]
+						},
+						"shutter_cyan": {
+							"textures": [
+								"textures/block/vanillaarchive/wools_mod/cyan"
+							]
+						},
+						"shutter_gray": {
+							"textures": [
+								"textures/block/vanillaarchive/wools_mod/gray"
+							]
+						},
+						"shutter_green": {
+							"textures": [
+								"textures/block/vanillaarchive/wools_mod/green"
+							]
+						},
+						"shutter_lblue": {
+							"textures": [
+								"textures/block/vanillaarchive/wools_mod/light_blue"
+							]
+						},
+						"shutter_lgray": {
+							"textures": [
+								"textures/block/vanillaarchive/wools_mod/light_gray"
+							]
+						},
+						"shutter_lime": {
+							"textures": [
+								"textures/block/vanillaarchive/wools_mod/lime"
+							]
+						},
+						"shutter_magenta": {
+							"textures": [
+								"textures/block/vanillaarchive/wools_mod/magenta"
+							]
+						},
+						"shutter_orange": {
+							"textures": [
+								"textures/block/vanillaarchive/wools_mod/orange"
+							]
+						},
+						"shutter_pink": {
+							"textures": [
+								"textures/block/vanillaarchive/wools_mod/pink"
+							]
+						},
+						"shutter_purple": {
+							"textures": [
+								"textures/block/vanillaarchive/wools_mod/purple"
+							]
+						},
+						"shutter_red": {
+							"textures": [
+								"textures/block/vanillaarchive/wools_mod/red"
+							]
+						},
+						"shutter_white": {
+							"textures": [
+								"textures/block/vanillaarchive/wools_mod/white"
+							]
+						},
+						"shutter_yellow": {
+							"textures": [
+								"textures/block/vanillaarchive/wools_mod/yellow"
+							]
+						},
+						"shutter_acacia": {
+							"textures": [
+								"textures/block/shutter_acacia"
+							]
+						},
+						"shutter_birch": {
+							"textures": [
+								"textures/block/shutter_birch"
+							]
+						},
+						"shutter_dark": {
+							"textures": [
+								"textures/block/shutter_dark"
+							]
+						},
+						"shutter_jungle": {
+							"textures": [
+								"textures/block/shutter_jungle"
+							]
+						},
+						"shutter_oak": {
+							"textures": [
+								"textures/block/shutter_oak"
+							]
+						},
+						"shutter_spruce": {
+							"textures": [
+								"textures/block/shutter_spruce"
+							]
+						},
+						"sawning_black": {
+							"textures": [
+								"textures/block/sawning_black"
+							]
+						},
+						"sawning_blue": {
+							"textures": [
+								"textures/block/sawning_blue"
+							]
+						},
+						"sawning_brown": {
+							"textures": [
+								"textures/block/sawning_brown"
+							]
+						},
+						"sawning_cyan": {
+							"textures": [
+								"textures/block/sawning_cyan"
+							]
+						},
+						"sawning_gray": {
+							"textures": [
+								"textures/block/sawning_gray"
+							]
+						},
+						"sawning_green": {
+							"textures": [
+								"textures/block/sawning_green"
+							]
+						},
+						"sawning_lblue": {
+							"textures": [
+								"textures/block/sawning_lblue"
+							]
+						},
+						"sawning_lgray": {
+							"textures": [
+								"textures/block/sawning_lgray"
+							]
+						},
+						"sawning_lime": {
+							"textures": [
+								"textures/block/sawning_lime"
+							]
+						},
+						"sawning_magenta": {
+							"textures": [
+								"textures/block/sawning_magenta"
+							]
+						},
+						"sawning_orange": {
+							"textures": [
+								"textures/block/sawning_orange"
+							]
+						},
+						"sawning_pink": {
+							"textures": [
+								"textures/block/sawning_pink"
+							]
+						},
+						"sawning_purple": {
+							"textures": [
+								"textures/block/sawning_purple"
+							]
+						},
+						"sawning_red": {
+							"textures": [
+								"textures/block/sawning_red"
+							]
+						},
+						"sawning_yellow": {
+							"textures": [
+								"textures/block/sawning_yellow"
+							]
+						},
+						"awning_black": {
+							"textures": [
+								"textures/block/awning_black"
+							]
+						},
+						"awning_blue": {
+							"textures": [
+								"textures/block/awning_blue"
+							]
+						},
+						"awning_brown": {
+							"textures": [
+								"textures/block/awning_brown"
+							]
+						},
+						"awning_cyan": {
+							"textures": [
+								"textures/block/awning_cyan"
+							]
+						},
+						"awning_gray": {
+							"textures": [
+								"textures/block/awning_gray"
+							]
+						},
+						"awning_green": {
+							"textures": [
+								"textures/block/awning_green"
+							]
+						},
+						"awning_lblue": {
+							"textures": [
+								"textures/block/awning_lblue"
+							]
+						},
+						"awning_lgray": {
+							"textures": [
+								"textures/block/awning_lgray"
+							]
+						},
+						"awning_lime": {
+							"textures": [
+								"textures/block/awning_lime"
+							]
+						},
+						"awning_magenta": {
+							"textures": [
+								"textures/block/awning_magenta"
+							]
+						},
+						"awning_orange": {
+							"textures": [
+								"textures/block/awning_orange"
+							]
+						},
+						"awning_pink": {
+							"textures": [
+								"textures/block/awning_pink"
+							]
+						},
+						"awning_purple": {
+							"textures": [
+								"textures/block/awning_purple"
+							]
+						},
+						"awning_red": {
+							"textures": [
+								"textures/block/awning_red"
+							]
+						},
+						"awning_white": {
+							"textures": [
+								"textures/block/awning_white"
+							]
+						},
+						"awning_yellow": {
+							"textures": [
+								"textures/block/awning_yellow"
+							]
+						},
+						"greenhouse_acacia": {
+							"textures": [
+								"textures/block/greenhouse_acacia"
+							]
+						},
+						"greenhouse_birch": {
+							"textures": [
+								"textures/block/greenhouse_birch"
+							]
+						},
+						"greenhouse_dark": {
+							"textures": [
+								"textures/block/greenhouse_dark"
+							]
+						},
+						"greenhouse_jungle": {
+							"textures": [
+								"textures/block/greenhouse_jungle"
+							]
+						},
+						"greenhouse_oak": {
+							"textures": [
+								"textures/block/greenhouse_oak"
+							]
+						},
+						"greenhouse_spruce": {
+							"textures": [
+								"textures/block/greenhouse_spruce"
+							]
+						},
+						"apiary": {
+							"textures": [
+								"textures/block/apiary"
+							]
+						},
+						"wheelbarrow_red": {
+							"textures": [
+								"textures/block/wheelbarrow_red"
+							]
+						},
+						"wheelbarrow_blue": {
+							"textures": [
+								"textures/block/wheelbarrow_blue"
+							]
+						},
+						"trowel_rack": {
+							"textures": [
+								"textures/block/trowel_rack"
+							]
+						},
+						"trowel_dirt": {
+							"textures": [
+								"textures/block/trowel_dirt"
+							]
+						},
+						"trowel": {
+							"textures": [
+								"textures/block/ghoulcraft/trowel"
+							]
+						},
+						"wateringcanmetal": {
+							"textures": [
+								"textures/block/wateringcanmetal"
+							]
+						},
+						"lawnmower": {
+							"textures": [
+								"textures/block/lawnmower"
+							]
+						},
+						"hose": {
+							"textures": [
+								"textures/block/hose"
+							]
+						},
+						"pot": {
+							"textures": [
+								"textures/block/pot"
+							]
+						},
+						"scarecrow": {
+							"textures": [
+								"textures/block/scarecrow"
+							]
+						},
+						"rabbithutch": {
+							"textures": [
+								"textures/block/rabbithutch"
+							]
+						},
+						"coop": {
+							"textures": [
+								"textures/block/coop"
+							]
+						},
+						"lattice_acacia": {
+							"textures": [
+								"textures/block/lattice_acacia"
+							]
+						},
+						"lattice_birch": {
+							"textures": [
+								"textures/block/lattice_birch"
+							]
+						},
+						"lattice_dark": {
+							"textures": [
+								"textures/block/lattice_dark"
+							]
+						},
+						"lattice_jungle": {
+							"textures": [
+								"textures/block/lattice_jungle"
+							]
+						},
+						"lattice_oak": {
+							"textures": [
+								"textures/block/lattice_oak"
+							]
+						},
+						"lattice_spruce": {
+							"textures": [
+								"textures/block/lattice_spruce"
+							]
+						},
+						"lattice_white": {
+							"textures": [
+								"textures/block/lattice_white"
+							]
+						}
+					}
+				},
+				"key": "texture_data",
+				"children": [
+					{
+						"key": "crop",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/crop"
+							]
+						}
+					},
+					{
+						"key": "pepper",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/pepper"
+							]
+						}
+					},
+					{
+						"key": "grapes",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/grapes"
+							]
+						}
+					},
+					{
+						"key": "cornfield",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/cornfield"
+							]
+						}
+					},
+					{
+						"key": "onion",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/onion"
+							]
+						}
+					},
+					{
+						"key": "picnic_basket",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/picnic_basket"
+							]
+						}
+					},
+					{
+						"key": "barrelredgrape",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/barrelredgrape"
+							]
+						}
+					},
+					{
+						"key": "barrelgreengrape",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/barrelgreengrape"
+							]
+						}
+					},
+					{
+						"key": "barrelpurplegrape",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/barrelpurplegrape"
+							]
+						}
+					},
+					{
+						"key": "blueberrybush",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/blueberrybush"
+							]
+						}
+					},
+					{
+						"key": "strawberrybush",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/strawberrybush"
+							]
+						}
+					},
+					{
+						"key": "stump_mossy_acacia",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/stump_mossy_acacia"
+							]
+						}
+					},
+					{
+						"key": "stump_mossy_birch",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/stump_mossy_birch"
+							]
+						}
+					},
+					{
+						"key": "stump_mossy_dark",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/stump_mossy_dark"
+							]
+						}
+					},
+					{
+						"key": "stump_mossy_jungle",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/stump_mossy_jungle"
+							]
+						}
+					},
+					{
+						"key": "stump_mossy_oak",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/stump_mossy_oak"
+							]
+						}
+					},
+					{
+						"key": "stump_mossy_spruce",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/block/stump_mossy_spruce"
+						}
+					},
+					{
+						"key": "tomato",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/tomato"
+							]
+						}
+					},
+					{
+						"key": "windowbox_allium",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowbox_allium"
+							]
+						}
+					},
+					{
+						"key": "windowbox_azure",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowbox_azure"
+							]
+						}
+					},
+					{
+						"key": "windowbox_brownm",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowbox_brownm"
+							]
+						}
+					},
+					{
+						"key": "windowbox_cornflower",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowbox_cornflower"
+							]
+						}
+					},
+					{
+						"key": "windowbox_daisy",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowbox_daisy"
+							]
+						}
+					},
+					{
+						"key": "windowbox_dandelion",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowbox_dandelion"
+							]
+						}
+					},
+					{
+						"key": "windowbox_lilac",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowbox_lilac"
+							]
+						}
+					},
+					{
+						"key": "windowbox_lily",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/block/windowbox_lily"
+						}
+					},
+					{
+						"key": "windowbox_orchid",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowbox_orchid"
+							]
+						}
+					},
+					{
+						"key": "windowbox_otulip",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowbox_otulip"
+							]
+						}
+					},
+					{
+						"key": "windowbox_peony",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowbox_peony"
+							]
+						}
+					},
+					{
+						"key": "windowbox_poppy",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowbox_poppy"
+							]
+						}
+					},
+					{
+						"key": "windowbox_ptulip",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowbox_ptulip"
+							]
+						}
+					},
+					{
+						"key": "windowbox_rtulip",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowbox_rtulip"
+							]
+						}
+					},
+					{
+						"key": "windowbox_rose",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowbox_rose"
+							]
+						}
+					},
+					{
+						"key": "windowbox_redm",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowbox_redm"
+							]
+						}
+					},
+					{
+						"key": "windowbox_wrose",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowbox_wrose"
+							]
+						}
+					},
+					{
+						"key": "windowbox_wtulip",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowbox_wtulip"
+							]
+						}
+					},
+					{
+						"key": "windowbox",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowbox"
+							]
+						}
+					},
+					{
+						"key": "veggies2",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/ghoulcraft/veggies2"
+							]
+						}
+					},
+					{
+						"key": "picnicblanket_red",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/ghoulcraft/picnicblanket"
+							]
+						}
+					},
+					{
+						"key": "picnicblanket_pink",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/ghoulcraft/picnicblanket_pink"
+							]
+						}
+					},
+					{
+						"key": "basket",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/ghoulcraft/picnicbasket"
+							]
+						}
+					},
+					{
+						"key": "sprouts1",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sprouts1"
+							]
+						}
+					},
+					{
+						"key": "sprouts2",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sprouts2"
+							]
+						}
+					},
+					{
+						"key": "sprouts3",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sprouts3"
+							]
+						}
+					},
+					{
+						"key": "succulent1",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/succulent1"
+							]
+						}
+					},
+					{
+						"key": "succulent2",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/succulent2"
+							]
+						}
+					},
+					{
+						"key": "succulentstray",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/succulentstray"
+							]
+						}
+					},
+					{
+						"key": "pinksucc",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/pinksucc"
+							]
+						}
+					},
+					{
+						"key": "ficus",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/ficus"
+							]
+						}
+					},
+					{
+						"key": "palmtree",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/palmtree"
+							]
+						}
+					},
+					{
+						"key": "cattail",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/ghoulcraft/cattail"
+							]
+						}
+					},
+					{
+						"key": "fertilizer",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/ghoulcraft/fertilizer"
+							]
+						}
+					},
+					{
+						"key": "gardenbench",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/gardenbench"
+							]
+						}
+					},
+					{
+						"key": "shutter_black",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/wools_mod/black"
+							]
+						}
+					},
+					{
+						"key": "shutter_brown",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/wools_mod/brown"
+							]
+						}
+					},
+					{
+						"key": "shutter_blue",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/wools_mod/blue"
+							]
+						}
+					},
+					{
+						"key": "shutter_cyan",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/wools_mod/cyan"
+							]
+						}
+					},
+					{
+						"key": "shutter_gray",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/wools_mod/gray"
+							]
+						}
+					},
+					{
+						"key": "shutter_green",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/wools_mod/green"
+							]
+						}
+					},
+					{
+						"key": "shutter_lblue",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/wools_mod/light_blue"
+							]
+						}
+					},
+					{
+						"key": "shutter_lgray",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/wools_mod/light_gray"
+							]
+						}
+					},
+					{
+						"key": "shutter_lime",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/wools_mod/lime"
+							]
+						}
+					},
+					{
+						"key": "shutter_magenta",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/wools_mod/magenta"
+							]
+						}
+					},
+					{
+						"key": "shutter_orange",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/wools_mod/orange"
+							]
+						}
+					},
+					{
+						"key": "shutter_pink",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/wools_mod/pink"
+							]
+						}
+					},
+					{
+						"key": "shutter_purple",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/wools_mod/purple"
+							]
+						}
+					},
+					{
+						"key": "shutter_red",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/wools_mod/red"
+							]
+						}
+					},
+					{
+						"key": "shutter_white",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/wools_mod/white"
+							]
+						}
+					},
+					{
+						"key": "shutter_yellow",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/wools_mod/yellow"
+							]
+						}
+					},
+					{
+						"key": "shutter_acacia",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/shutter_acacia"
+							]
+						}
+					},
+					{
+						"key": "shutter_birch",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/shutter_birch"
+							]
+						}
+					},
+					{
+						"key": "shutter_dark",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/shutter_dark"
+							]
+						}
+					},
+					{
+						"key": "shutter_jungle",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/shutter_jungle"
+							]
+						}
+					},
+					{
+						"key": "shutter_oak",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/shutter_oak"
+							]
+						}
+					},
+					{
+						"key": "shutter_spruce",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/shutter_spruce"
+							]
+						}
+					},
+					{
+						"key": "sawning_black",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sawning_black"
+							]
+						}
+					},
+					{
+						"key": "sawning_blue",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sawning_blue"
+							]
+						}
+					},
+					{
+						"key": "sawning_brown",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sawning_brown"
+							]
+						}
+					},
+					{
+						"key": "sawning_cyan",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sawning_cyan"
+							]
+						}
+					},
+					{
+						"key": "sawning_gray",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sawning_gray"
+							]
+						}
+					},
+					{
+						"key": "sawning_green",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sawning_green"
+							]
+						}
+					},
+					{
+						"key": "sawning_lblue",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sawning_lblue"
+							]
+						}
+					},
+					{
+						"key": "sawning_lgray",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sawning_lgray"
+							]
+						}
+					},
+					{
+						"key": "sawning_lime",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sawning_lime"
+							]
+						}
+					},
+					{
+						"key": "sawning_magenta",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sawning_magenta"
+							]
+						}
+					},
+					{
+						"key": "sawning_orange",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sawning_orange"
+							]
+						}
+					},
+					{
+						"key": "sawning_pink",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sawning_pink"
+							]
+						}
+					},
+					{
+						"key": "sawning_purple",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sawning_purple"
+							]
+						}
+					},
+					{
+						"key": "sawning_red",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sawning_red"
+							]
+						}
+					},
+					{
+						"key": "sawning_yellow",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sawning_yellow"
+							]
+						}
+					},
+					{
+						"key": "awning_black",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/awning_black"
+							]
+						}
+					},
+					{
+						"key": "awning_blue",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/awning_blue"
+							]
+						}
+					},
+					{
+						"key": "awning_brown",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/awning_brown"
+							]
+						}
+					},
+					{
+						"key": "awning_cyan",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/awning_cyan"
+							]
+						}
+					},
+					{
+						"key": "awning_gray",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/awning_gray"
+							]
+						}
+					},
+					{
+						"key": "awning_green",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/awning_green"
+							]
+						}
+					},
+					{
+						"key": "awning_lblue",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/awning_lblue"
+							]
+						}
+					},
+					{
+						"key": "awning_lgray",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/awning_lgray"
+							]
+						}
+					},
+					{
+						"key": "awning_lime",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/awning_lime"
+							]
+						}
+					},
+					{
+						"key": "awning_magenta",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/awning_magenta"
+							]
+						}
+					},
+					{
+						"key": "awning_orange",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/awning_orange"
+							]
+						}
+					},
+					{
+						"key": "awning_pink",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/awning_pink"
+							]
+						}
+					},
+					{
+						"key": "awning_purple",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/awning_purple"
+							]
+						}
+					},
+					{
+						"key": "awning_red",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/awning_red"
+							]
+						}
+					},
+					{
+						"key": "awning_white",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/awning_white"
+							]
+						}
+					},
+					{
+						"key": "awning_yellow",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/awning_yellow"
+							]
+						}
+					},
+					{
+						"key": "greenhouse_acacia",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/block/greenhouse_acacia"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/block/greenhouse_acacia"
+								]
+							}
+						]
+					},
+					{
+						"key": "greenhouse_birch",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/block/greenhouse_birch"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/block/greenhouse_birch"
+								]
+							}
+						]
+					},
+					{
+						"key": "greenhouse_dark",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/block/greenhouse_dark"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/block/greenhouse_dark"
+								]
+							}
+						]
+					},
+					{
+						"key": "greenhouse_jungle",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/block/greenhouse_jungle"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/block/greenhouse_jungle"
+								]
+							}
+						]
+					},
+					{
+						"key": "greenhouse_oak",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/block/greenhouse_oak"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/block/greenhouse_oak"
+								]
+							}
+						]
+					},
+					{
+						"key": "greenhouse_spruce",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/block/greenhouse_spruce"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/block/greenhouse_spruce"
+								]
+							}
+						]
+					},
+					{
+						"key": "apiary",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/block/apiary"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/block/apiary"
+								]
+							}
+						]
+					},
+					{
+						"key": "wheelbarrow_red",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/block/wheelbarrow_red"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/block/wheelbarrow_red"
+								]
+							}
+						]
+					},
+					{
+						"key": "wheelbarrow_blue",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/block/wheelbarrow_blue"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/block/wheelbarrow_blue"
+								]
+							}
+						]
+					},
+					{
+						"key": "trowel_rack",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/block/trowel_rack"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/block/trowel_rack"
+								]
+							}
+						]
+					},
+					{
+						"key": "trowel_dirt",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/block/trowel_dirt"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/block/trowel_dirt"
+								]
+							}
+						]
+					},
+					{
+						"open": {
+							"crop": {
+								"textures": [
+									"textures/block/crop"
+								]
+							},
+							"pepper": {
+								"textures": [
+									"textures/block/pepper"
+								]
+							},
+							"grapes": {
+								"textures": [
+									"textures/block/grapes"
+								]
+							},
+							"cornfield": {
+								"textures": [
+									"textures/block/cornfield"
+								]
+							},
+							"onion": {
+								"textures": [
+									"textures/block/onion"
+								]
+							},
+							"picnic_basket": {
+								"textures": [
+									"textures/block/picnic_basket"
+								]
+							},
+							"barrelredgrape": {
+								"textures": [
+									"textures/block/barrelredgrape"
+								]
+							},
+							"barrelgreengrape": {
+								"textures": [
+									"textures/block/barrelgreengrape"
+								]
+							},
+							"barrelpurplegrape": {
+								"textures": [
+									"textures/block/barrelpurplegrape"
+								]
+							},
+							"blueberrybush": {
+								"textures": [
+									"textures/block/blueberrybush"
+								]
+							},
+							"strawberrybush": {
+								"textures": [
+									"textures/block/strawberrybush"
+								]
+							},
+							"stump_mossy_acacia": {
+								"textures": [
+									"textures/block/stump_mossy_acacia"
+								]
+							},
+							"stump_mossy_birch": {
+								"textures": [
+									"textures/block/stump_mossy_birch"
+								]
+							},
+							"stump_mossy_dark": {
+								"textures": [
+									"textures/block/stump_mossy_dark"
+								]
+							},
+							"stump_mossy_jungle": {
+								"textures": [
+									"textures/block/stump_mossy_jungle"
+								]
+							},
+							"stump_mossy_oak": {
+								"textures": [
+									"textures/block/stump_mossy_oak"
+								]
+							},
+							"stump_mossy_spruce": {
+								"textures": "textures/block/stump_mossy_spruce"
+							},
+							"tomato": {
+								"textures": [
+									"textures/block/tomato"
+								]
+							},
+							"windowbox_allium": {
+								"textures": [
+									"textures/block/windowbox_allium"
+								]
+							},
+							"windowbox_azure": {
+								"textures": [
+									"textures/block/windowbox_azure"
+								]
+							},
+							"windowbox_brownm": {
+								"textures": [
+									"textures/block/windowbox_brownm"
+								]
+							},
+							"windowbox_cornflower": {
+								"textures": [
+									"textures/block/windowbox_cornflower"
+								]
+							},
+							"windowbox_daisy": {
+								"textures": [
+									"textures/block/windowbox_daisy"
+								]
+							},
+							"windowbox_dandelion": {
+								"textures": [
+									"textures/block/windowbox_dandelion"
+								]
+							},
+							"windowbox_lilac": {
+								"textures": [
+									"textures/block/windowbox_lilac"
+								]
+							},
+							"windowbox_lily": {
+								"textures": "textures/block/windowbox_lily"
+							},
+							"windowbox_orchid": {
+								"textures": [
+									"textures/block/windowbox_orchid"
+								]
+							},
+							"windowbox_otulip": {
+								"textures": [
+									"textures/block/windowbox_otulip"
+								]
+							},
+							"windowbox_peony": {
+								"textures": [
+									"textures/block/windowbox_peony"
+								]
+							},
+							"windowbox_poppy": {
+								"textures": [
+									"textures/block/windowbox_poppy"
+								]
+							},
+							"windowbox_ptulip": {
+								"textures": [
+									"textures/block/windowbox_ptulip"
+								]
+							},
+							"windowbox_rtulip": {
+								"textures": [
+									"textures/block/windowbox_rtulip"
+								]
+							},
+							"windowbox_rose": {
+								"textures": [
+									"textures/block/windowbox_rose"
+								]
+							},
+							"windowbox_redm": {
+								"textures": [
+									"textures/block/windowbox_redm"
+								]
+							},
+							"windowbox_wrose": {
+								"textures": [
+									"textures/block/windowbox_wrose"
+								]
+							},
+							"windowbox_wtulip": {
+								"textures": [
+									"textures/block/windowbox_wtulip"
+								]
+							},
+							"windowbox": {
+								"textures": [
+									"textures/block/windowbox"
+								]
+							},
+							"veggies2": {
+								"textures": [
+									"textures/block/ghoulcraft/veggies2"
+								]
+							},
+							"picnicblanket_red": {
+								"textures": [
+									"textures/block/ghoulcraft/picnicblanket"
+								]
+							},
+							"picnicblanket_pink": {
+								"textures": [
+									"textures/block/ghoulcraft/picnicblanket_pink"
+								]
+							},
+							"basket": {
+								"textures": [
+									"textures/block/ghoulcraft/picnicbasket"
+								]
+							},
+							"sprouts1": {
+								"textures": [
+									"textures/block/sprouts1"
+								]
+							},
+							"sprouts2": {
+								"textures": [
+									"textures/block/sprouts2"
+								]
+							},
+							"sprouts3": {
+								"textures": [
+									"textures/block/sprouts3"
+								]
+							},
+							"succulent1": {
+								"textures": [
+									"textures/block/succulent1"
+								]
+							},
+							"succulent2": {
+								"textures": [
+									"textures/block/succulent2"
+								]
+							},
+							"succulentstray": {
+								"textures": [
+									"textures/block/succulentstray"
+								]
+							},
+							"pinksucc": {
+								"textures": [
+									"textures/block/pinksucc"
+								]
+							},
+							"ficus": {
+								"textures": [
+									"textures/block/ficus"
+								]
+							},
+							"palmtree": {
+								"textures": [
+									"textures/block/palmtree"
+								]
+							},
+							"cattail": {
+								"textures": [
+									"textures/block/ghoulcraft/cattail"
+								]
+							},
+							"fertilizer": {
+								"textures": [
+									"textures/block/ghoulcraft/fertilizer"
+								]
+							},
+							"gardenbench": {
+								"textures": [
+									"textures/block/gardenbench"
+								]
+							},
+							"shutter_black": {
+								"textures": [
+									"textures/block/vanillaarchive/wools_mod/black"
+								]
+							},
+							"shutter_brown": {
+								"textures": [
+									"textures/block/vanillaarchive/wools_mod/brown"
+								]
+							},
+							"shutter_blue": {
+								"textures": [
+									"textures/block/vanillaarchive/wools_mod/blue"
+								]
+							},
+							"shutter_cyan": {
+								"textures": [
+									"textures/block/vanillaarchive/wools_mod/cyan"
+								]
+							},
+							"shutter_gray": {
+								"textures": [
+									"textures/block/vanillaarchive/wools_mod/gray"
+								]
+							},
+							"shutter_green": {
+								"textures": [
+									"textures/block/vanillaarchive/wools_mod/green"
+								]
+							},
+							"shutter_lblue": {
+								"textures": [
+									"textures/block/vanillaarchive/wools_mod/light_blue"
+								]
+							},
+							"shutter_lgray": {
+								"textures": [
+									"textures/block/vanillaarchive/wools_mod/light_gray"
+								]
+							},
+							"shutter_lime": {
+								"textures": [
+									"textures/block/vanillaarchive/wools_mod/lime"
+								]
+							},
+							"shutter_magenta": {
+								"textures": [
+									"textures/block/vanillaarchive/wools_mod/magenta"
+								]
+							},
+							"shutter_orange": {
+								"textures": [
+									"textures/block/vanillaarchive/wools_mod/orange"
+								]
+							},
+							"shutter_pink": {
+								"textures": [
+									"textures/block/vanillaarchive/wools_mod/pink"
+								]
+							},
+							"shutter_purple": {
+								"textures": [
+									"textures/block/vanillaarchive/wools_mod/purple"
+								]
+							},
+							"shutter_red": {
+								"textures": [
+									"textures/block/vanillaarchive/wools_mod/red"
+								]
+							},
+							"shutter_white": {
+								"textures": [
+									"textures/block/vanillaarchive/wools_mod/white"
+								]
+							},
+							"shutter_yellow": {
+								"textures": [
+									"textures/block/vanillaarchive/wools_mod/yellow"
+								]
+							},
+							"shutter_acacia": {
+								"textures": [
+									"textures/block/shutter_acacia"
+								]
+							},
+							"shutter_birch": {
+								"textures": [
+									"textures/block/shutter_birch"
+								]
+							},
+							"shutter_dark": {
+								"textures": [
+									"textures/block/shutter_dark"
+								]
+							},
+							"shutter_jungle": {
+								"textures": [
+									"textures/block/shutter_jungle"
+								]
+							},
+							"shutter_oak": {
+								"textures": [
+									"textures/block/shutter_oak"
+								]
+							},
+							"shutter_spruce": {
+								"textures": [
+									"textures/block/shutter_spruce"
+								]
+							},
+							"sawning_black": {
+								"textures": [
+									"textures/block/sawning_black"
+								]
+							},
+							"sawning_blue": {
+								"textures": [
+									"textures/block/sawning_blue"
+								]
+							},
+							"sawning_brown": {
+								"textures": [
+									"textures/block/sawning_brown"
+								]
+							},
+							"sawning_cyan": {
+								"textures": [
+									"textures/block/sawning_cyan"
+								]
+							},
+							"sawning_gray": {
+								"textures": [
+									"textures/block/sawning_gray"
+								]
+							},
+							"sawning_green": {
+								"textures": [
+									"textures/block/sawning_green"
+								]
+							},
+							"sawning_lblue": {
+								"textures": [
+									"textures/block/sawning_lblue"
+								]
+							},
+							"sawning_lgray": {
+								"textures": [
+									"textures/block/sawning_lgray"
+								]
+							},
+							"sawning_lime": {
+								"textures": [
+									"textures/block/sawning_lime"
+								]
+							},
+							"sawning_magenta": {
+								"textures": [
+									"textures/block/sawning_magenta"
+								]
+							},
+							"sawning_orange": {
+								"textures": [
+									"textures/block/sawning_orange"
+								]
+							},
+							"sawning_pink": {
+								"textures": [
+									"textures/block/sawning_pink"
+								]
+							},
+							"sawning_purple": {
+								"textures": [
+									"textures/block/sawning_purple"
+								]
+							},
+							"sawning_red": {
+								"textures": [
+									"textures/block/sawning_red"
+								]
+							},
+							"sawning_yellow": {
+								"textures": [
+									"textures/block/sawning_yellow"
+								]
+							},
+							"awning_black": {
+								"textures": [
+									"textures/block/awning_black"
+								]
+							},
+							"awning_blue": {
+								"textures": [
+									"textures/block/awning_blue"
+								]
+							},
+							"awning_brown": {
+								"textures": [
+									"textures/block/awning_brown"
+								]
+							},
+							"awning_cyan": {
+								"textures": [
+									"textures/block/awning_cyan"
+								]
+							},
+							"awning_gray": {
+								"textures": [
+									"textures/block/awning_gray"
+								]
+							},
+							"awning_green": {
+								"textures": [
+									"textures/block/awning_green"
+								]
+							},
+							"awning_lblue": {
+								"textures": [
+									"textures/block/awning_lblue"
+								]
+							},
+							"awning_lgray": {
+								"textures": [
+									"textures/block/awning_lgray"
+								]
+							},
+							"awning_lime": {
+								"textures": [
+									"textures/block/awning_lime"
+								]
+							},
+							"awning_magenta": {
+								"textures": [
+									"textures/block/awning_magenta"
+								]
+							},
+							"awning_orange": {
+								"textures": [
+									"textures/block/awning_orange"
+								]
+							},
+							"awning_pink": {
+								"textures": [
+									"textures/block/awning_pink"
+								]
+							},
+							"awning_purple": {
+								"textures": [
+									"textures/block/awning_purple"
+								]
+							},
+							"awning_red": {
+								"textures": [
+									"textures/block/awning_red"
+								]
+							},
+							"awning_white": {
+								"textures": [
+									"textures/block/awning_white"
+								]
+							},
+							"awning_yellow": {
+								"textures": [
+									"textures/block/awning_yellow"
+								]
+							},
+							"greenhouse_acacia": {
+								"textures": [
+									"textures/block/greenhouse_acacia"
+								]
+							},
+							"greenhouse_birch": {
+								"textures": [
+									"textures/block/greenhouse_birch"
+								]
+							},
+							"greenhouse_dark": {
+								"textures": [
+									"textures/block/greenhouse_dark"
+								]
+							},
+							"greenhouse_jungle": {
+								"textures": [
+									"textures/block/greenhouse_jungle"
+								]
+							},
+							"greenhouse_oak": {
+								"textures": [
+									"textures/block/greenhouse_oak"
+								]
+							},
+							"greenhouse_spruce": {
+								"textures": [
+									"textures/block/greenhouse_spruce"
+								]
+							},
+							"apiary": {
+								"textures": [
+									"textures/block/apiary"
+								]
+							},
+							"wheelbarrow_red": {
+								"textures": [
+									"textures/block/wheelbarrow_red"
+								]
+							},
+							"wheelbarrow_blue": {
+								"textures": [
+									"textures/block/wheelbarrow_blue"
+								]
+							},
+							"trowel_rack": {
+								"textures": [
+									"textures/block/trowel_rack"
+								]
+							},
+							"trowel_dirt": {
+								"textures": [
+									"textures/block/trowel_dirt"
+								]
+							},
+							"trowel": {
+								"textures": [
+									"textures/block/ghoulcraft/trowel"
+								]
+							},
+							"wateringcanmetal": {
+								"textures": [
+									"textures/block/wateringcanmetal"
+								]
+							},
+							"lawnmower": {
+								"textures": [
+									"textures/block/lawnmower"
+								]
+							},
+							"hose": {
+								"textures": [
+									"textures/block/hose"
+								]
+							},
+							"pot": {
+								"textures": [
+									"textures/block/pot"
+								]
+							},
+							"scarecrow": {
+								"textures": [
+									"textures/block/scarecrow"
+								]
+							},
+							"rabbithutch": {
+								"textures": [
+									"textures/block/rabbithutch"
+								]
+							},
+							"coop": {
+								"textures": [
+									"textures/block/coop"
+								]
+							},
+							"lattice_acacia": {
+								"textures": [
+									"textures/block/lattice_acacia"
+								]
+							},
+							"lattice_birch": {
+								"textures": [
+									"textures/block/lattice_birch"
+								]
+							},
+							"lattice_dark": {
+								"textures": [
+									"textures/block/lattice_dark"
+								]
+							},
+							"lattice_jungle": {
+								"textures": [
+									"textures/block/lattice_jungle"
+								]
+							},
+							"lattice_oak": {
+								"textures": [
+									"textures/block/lattice_oak"
+								]
+							},
+							"lattice_spruce": {
+								"textures": [
+									"textures/block/lattice_spruce"
+								]
+							},
+							"lattice_white": {
+								"textures": [
+									"textures/block/lattice_white"
+								]
+							}
+						},
+						"key": "trowel",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/block/ghoulcraft/trowel"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/block/ghoulcraft/trowel"
+								]
+							}
+						]
+					},
+					{
+						"key": "wateringcanmetal",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/block/wateringcanmetal"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/block/wateringcanmetal"
+								]
+							}
+						]
+					},
+					{
+						"key": "lawnmower",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/block/lawnmower"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/block/lawnmower"
+								]
+							}
+						]
+					},
+					{
+						"key": "hose",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/block/hose"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/block/hose"
+								]
+							}
+						]
+					},
+					{
+						"key": "pot",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/block/pot"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/block/pot"
+								]
+							}
+						]
+					},
+					{
+						"key": "scarecrow",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/block/scarecrow"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/block/scarecrow"
+								]
+							}
+						]
+					},
+					{
+						"key": "rabbithutch",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/block/rabbithutch"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/block/rabbithutch"
+								]
+							}
+						]
+					},
+					{
+						"key": "coop",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/block/coop"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/block/coop"
+								]
+							}
+						]
+					},
+					{
+						"key": "lattice_acacia",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/block/lattice_acacia"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/block/lattice_acacia"
+								]
+							}
+						]
+					},
+					{
+						"key": "lattice_birch",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/block/lattice_birch"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/block/lattice_birch"
+								]
+							}
+						]
+					},
+					{
+						"key": "lattice_dark",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/block/lattice_dark"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/block/lattice_dark"
+								]
+							}
+						]
+					},
+					{
+						"key": "lattice_jungle",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/block/lattice_jungle"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/block/lattice_jungle"
+								]
+							}
+						]
+					},
+					{
+						"key": "lattice_oak",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/block/lattice_oak"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/block/lattice_oak"
+								]
+							}
+						]
+					},
+					{
+						"key": "lattice_spruce",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/block/lattice_spruce"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/block/lattice_spruce"
+								]
+							}
+						]
+					},
+					{
+						"open": {
+							"crop": {
+								"textures": [
+									"textures/block/crop"
+								]
+							},
+							"pepper": {
+								"textures": [
+									"textures/block/pepper"
+								]
+							},
+							"grapes": {
+								"textures": [
+									"textures/block/grapes"
+								]
+							},
+							"cornfield": {
+								"textures": [
+									"textures/block/cornfield"
+								]
+							},
+							"onion": {
+								"textures": [
+									"textures/block/onion"
+								]
+							},
+							"picnic_basket": {
+								"textures": [
+									"textures/block/picnic_basket"
+								]
+							},
+							"barrelredgrape": {
+								"textures": [
+									"textures/block/barrelredgrape"
+								]
+							},
+							"barrelgreengrape": {
+								"textures": [
+									"textures/block/barrelgreengrape"
+								]
+							},
+							"barrelpurplegrape": {
+								"textures": [
+									"textures/block/barrelpurplegrape"
+								]
+							},
+							"blueberrybush": {
+								"textures": [
+									"textures/block/blueberrybush"
+								]
+							},
+							"strawberrybush": {
+								"textures": [
+									"textures/block/strawberrybush"
+								]
+							},
+							"stump_mossy_acacia": {
+								"textures": [
+									"textures/block/stump_mossy_acacia"
+								]
+							},
+							"stump_mossy_birch": {
+								"textures": [
+									"textures/block/stump_mossy_birch"
+								]
+							},
+							"stump_mossy_dark": {
+								"textures": [
+									"textures/block/stump_mossy_dark"
+								]
+							},
+							"stump_mossy_jungle": {
+								"textures": [
+									"textures/block/stump_mossy_jungle"
+								]
+							},
+							"stump_mossy_oak": {
+								"textures": [
+									"textures/block/stump_mossy_oak"
+								]
+							},
+							"stump_mossy_spruce": {
+								"textures": "textures/block/stump_mossy_spruce"
+							},
+							"tomato": {
+								"textures": [
+									"textures/block/tomato"
+								]
+							},
+							"windowbox_allium": {
+								"textures": [
+									"textures/block/windowbox_allium"
+								]
+							},
+							"windowbox_azure": {
+								"textures": [
+									"textures/block/windowbox_azure"
+								]
+							},
+							"windowbox_brownm": {
+								"textures": [
+									"textures/block/windowbox_brownm"
+								]
+							},
+							"windowbox_cornflower": {
+								"textures": [
+									"textures/block/windowbox_cornflower"
+								]
+							},
+							"windowbox_daisy": {
+								"textures": [
+									"textures/block/windowbox_daisy"
+								]
+							},
+							"windowbox_dandelion": {
+								"textures": [
+									"textures/block/windowbox_dandelion"
+								]
+							},
+							"windowbox_lilac": {
+								"textures": [
+									"textures/block/windowbox_lilac"
+								]
+							},
+							"windowbox_lily": {
+								"textures": "textures/block/windowbox_lily"
+							},
+							"windowbox_orchid": {
+								"textures": [
+									"textures/block/windowbox_orchid"
+								]
+							},
+							"windowbox_otulip": {
+								"textures": [
+									"textures/block/windowbox_otulip"
+								]
+							},
+							"windowbox_peony": {
+								"textures": [
+									"textures/block/windowbox_peony"
+								]
+							},
+							"windowbox_poppy": {
+								"textures": [
+									"textures/block/windowbox_poppy"
+								]
+							},
+							"windowbox_ptulip": {
+								"textures": [
+									"textures/block/windowbox_ptulip"
+								]
+							},
+							"windowbox_rtulip": {
+								"textures": [
+									"textures/block/windowbox_rtulip"
+								]
+							},
+							"windowbox_rose": {
+								"textures": [
+									"textures/block/windowbox_rose"
+								]
+							},
+							"windowbox_redm": {
+								"textures": [
+									"textures/block/windowbox_redm"
+								]
+							},
+							"windowbox_wrose": {
+								"textures": [
+									"textures/block/windowbox_wrose"
+								]
+							},
+							"windowbox_wtulip": {
+								"textures": [
+									"textures/block/windowbox_wtulip"
+								]
+							},
+							"windowbox": {
+								"textures": [
+									"textures/block/windowbox"
+								]
+							},
+							"veggies2": {
+								"textures": [
+									"textures/block/ghoulcraft/veggies2"
+								]
+							},
+							"picnicblanket_red": {
+								"textures": [
+									"textures/block/ghoulcraft/picnicblanket"
+								]
+							},
+							"picnicblanket_pink": {
+								"textures": [
+									"textures/block/ghoulcraft/picnicblanket_pink"
+								]
+							},
+							"basket": {
+								"textures": [
+									"textures/block/ghoulcraft/picnicbasket"
+								]
+							},
+							"sprouts1": {
+								"textures": [
+									"textures/block/sprouts1"
+								]
+							},
+							"sprouts2": {
+								"textures": [
+									"textures/block/sprouts2"
+								]
+							},
+							"sprouts3": {
+								"textures": [
+									"textures/block/sprouts3"
+								]
+							},
+							"succulent1": {
+								"textures": [
+									"textures/block/succulent1"
+								]
+							},
+							"succulent2": {
+								"textures": [
+									"textures/block/succulent2"
+								]
+							},
+							"succulentstray": {
+								"textures": [
+									"textures/block/succulentstray"
+								]
+							},
+							"pinksucc": {
+								"textures": [
+									"textures/block/pinksucc"
+								]
+							},
+							"ficus": {
+								"textures": [
+									"textures/block/ficus"
+								]
+							},
+							"palmtree": {
+								"textures": [
+									"textures/block/palmtree"
+								]
+							},
+							"cattail": {
+								"textures": [
+									"textures/block/ghoulcraft/cattail"
+								]
+							},
+							"fertilizer": {
+								"textures": [
+									"textures/block/ghoulcraft/fertilizer"
+								]
+							},
+							"gardenbench": {
+								"textures": [
+									"textures/block/gardenbench"
+								]
+							},
+							"shutter_black": {
+								"textures": [
+									"textures/block/vanillaarchive/wools_mod/black"
+								]
+							},
+							"shutter_brown": {
+								"textures": [
+									"textures/block/vanillaarchive/wools_mod/brown"
+								]
+							},
+							"shutter_blue": {
+								"textures": [
+									"textures/block/vanillaarchive/wools_mod/blue"
+								]
+							},
+							"shutter_cyan": {
+								"textures": [
+									"textures/block/vanillaarchive/wools_mod/cyan"
+								]
+							},
+							"shutter_gray": {
+								"textures": [
+									"textures/block/vanillaarchive/wools_mod/gray"
+								]
+							},
+							"shutter_green": {
+								"textures": [
+									"textures/block/vanillaarchive/wools_mod/green"
+								]
+							},
+							"shutter_lblue": {
+								"textures": [
+									"textures/block/vanillaarchive/wools_mod/light_blue"
+								]
+							},
+							"shutter_lgray": {
+								"textures": [
+									"textures/block/vanillaarchive/wools_mod/light_gray"
+								]
+							},
+							"shutter_lime": {
+								"textures": [
+									"textures/block/vanillaarchive/wools_mod/lime"
+								]
+							},
+							"shutter_magenta": {
+								"textures": [
+									"textures/block/vanillaarchive/wools_mod/magenta"
+								]
+							},
+							"shutter_orange": {
+								"textures": [
+									"textures/block/vanillaarchive/wools_mod/orange"
+								]
+							},
+							"shutter_pink": {
+								"textures": [
+									"textures/block/vanillaarchive/wools_mod/pink"
+								]
+							},
+							"shutter_purple": {
+								"textures": [
+									"textures/block/vanillaarchive/wools_mod/purple"
+								]
+							},
+							"shutter_red": {
+								"textures": [
+									"textures/block/vanillaarchive/wools_mod/red"
+								]
+							},
+							"shutter_white": {
+								"textures": [
+									"textures/block/vanillaarchive/wools_mod/white"
+								]
+							},
+							"shutter_yellow": {
+								"textures": [
+									"textures/block/vanillaarchive/wools_mod/yellow"
+								]
+							},
+							"shutter_acacia": {
+								"textures": [
+									"textures/block/shutter_acacia"
+								]
+							},
+							"shutter_birch": {
+								"textures": [
+									"textures/block/shutter_birch"
+								]
+							},
+							"shutter_dark": {
+								"textures": [
+									"textures/block/shutter_dark"
+								]
+							},
+							"shutter_jungle": {
+								"textures": [
+									"textures/block/shutter_jungle"
+								]
+							},
+							"shutter_oak": {
+								"textures": [
+									"textures/block/shutter_oak"
+								]
+							},
+							"shutter_spruce": {
+								"textures": [
+									"textures/block/shutter_spruce"
+								]
+							},
+							"sawning_black": {
+								"textures": [
+									"textures/block/sawning_black"
+								]
+							},
+							"sawning_blue": {
+								"textures": [
+									"textures/block/sawning_blue"
+								]
+							},
+							"sawning_brown": {
+								"textures": [
+									"textures/block/sawning_brown"
+								]
+							},
+							"sawning_cyan": {
+								"textures": [
+									"textures/block/sawning_cyan"
+								]
+							},
+							"sawning_gray": {
+								"textures": [
+									"textures/block/sawning_gray"
+								]
+							},
+							"sawning_green": {
+								"textures": [
+									"textures/block/sawning_green"
+								]
+							},
+							"sawning_lblue": {
+								"textures": [
+									"textures/block/sawning_lblue"
+								]
+							},
+							"sawning_lgray": {
+								"textures": [
+									"textures/block/sawning_lgray"
+								]
+							},
+							"sawning_lime": {
+								"textures": [
+									"textures/block/sawning_lime"
+								]
+							},
+							"sawning_magenta": {
+								"textures": [
+									"textures/block/sawning_magenta"
+								]
+							},
+							"sawning_orange": {
+								"textures": [
+									"textures/block/sawning_orange"
+								]
+							},
+							"sawning_pink": {
+								"textures": [
+									"textures/block/sawning_pink"
+								]
+							},
+							"sawning_purple": {
+								"textures": [
+									"textures/block/sawning_purple"
+								]
+							},
+							"sawning_red": {
+								"textures": [
+									"textures/block/sawning_red"
+								]
+							},
+							"sawning_yellow": {
+								"textures": [
+									"textures/block/sawning_yellow"
+								]
+							},
+							"awning_black": {
+								"textures": [
+									"textures/block/awning_black"
+								]
+							},
+							"awning_blue": {
+								"textures": [
+									"textures/block/awning_blue"
+								]
+							},
+							"awning_brown": {
+								"textures": [
+									"textures/block/awning_brown"
+								]
+							},
+							"awning_cyan": {
+								"textures": [
+									"textures/block/awning_cyan"
+								]
+							},
+							"awning_gray": {
+								"textures": [
+									"textures/block/awning_gray"
+								]
+							},
+							"awning_green": {
+								"textures": [
+									"textures/block/awning_green"
+								]
+							},
+							"awning_lblue": {
+								"textures": [
+									"textures/block/awning_lblue"
+								]
+							},
+							"awning_lgray": {
+								"textures": [
+									"textures/block/awning_lgray"
+								]
+							},
+							"awning_lime": {
+								"textures": [
+									"textures/block/awning_lime"
+								]
+							},
+							"awning_magenta": {
+								"textures": [
+									"textures/block/awning_magenta"
+								]
+							},
+							"awning_orange": {
+								"textures": [
+									"textures/block/awning_orange"
+								]
+							},
+							"awning_pink": {
+								"textures": [
+									"textures/block/awning_pink"
+								]
+							},
+							"awning_purple": {
+								"textures": [
+									"textures/block/awning_purple"
+								]
+							},
+							"awning_red": {
+								"textures": [
+									"textures/block/awning_red"
+								]
+							},
+							"awning_white": {
+								"textures": [
+									"textures/block/awning_white"
+								]
+							},
+							"awning_yellow": {
+								"textures": [
+									"textures/block/awning_yellow"
+								]
+							},
+							"greenhouse_acacia": {
+								"textures": [
+									"textures/block/greenhouse_acacia"
+								]
+							},
+							"greenhouse_birch": {
+								"textures": [
+									"textures/block/greenhouse_birch"
+								]
+							},
+							"greenhouse_dark": {
+								"textures": [
+									"textures/block/greenhouse_dark"
+								]
+							},
+							"greenhouse_jungle": {
+								"textures": [
+									"textures/block/greenhouse_jungle"
+								]
+							},
+							"greenhouse_oak": {
+								"textures": [
+									"textures/block/greenhouse_oak"
+								]
+							},
+							"greenhouse_spruce": {
+								"textures": [
+									"textures/block/greenhouse_spruce"
+								]
+							},
+							"apiary": {
+								"textures": [
+									"textures/block/apiary"
+								]
+							},
+							"wheelbarrow_red": {
+								"textures": [
+									"textures/block/wheelbarrow_red"
+								]
+							},
+							"wheelbarrow_blue": {
+								"textures": [
+									"textures/block/wheelbarrow_blue"
+								]
+							},
+							"trowel_rack": {
+								"textures": [
+									"textures/block/trowel_rack"
+								]
+							},
+							"trowel_dirt": {
+								"textures": [
+									"textures/block/trowel_dirt"
+								]
+							},
+							"trowel": {
+								"textures": [
+									"textures/block/ghoulcraft/trowel"
+								]
+							},
+							"wateringcanmetal": {
+								"textures": [
+									"textures/block/wateringcanmetal"
+								]
+							},
+							"lawnmower": {
+								"textures": [
+									"textures/block/lawnmower"
+								]
+							},
+							"hose": {
+								"textures": [
+									"textures/block/hose"
+								]
+							},
+							"pot": {
+								"textures": [
+									"textures/block/pot"
+								]
+							},
+							"scarecrow": {
+								"textures": [
+									"textures/block/scarecrow"
+								]
+							},
+							"rabbithutch": {
+								"textures": [
+									"textures/block/rabbithutch"
+								]
+							},
+							"coop": {
+								"textures": [
+									"textures/block/coop"
+								]
+							},
+							"lattice_acacia": {
+								"textures": [
+									"textures/block/lattice_acacia"
+								]
+							},
+							"lattice_birch": {
+								"textures": [
+									"textures/block/lattice_birch"
+								]
+							},
+							"lattice_dark": {
+								"textures": [
+									"textures/block/lattice_dark"
+								]
+							},
+							"lattice_jungle": {
+								"textures": [
+									"textures/block/lattice_jungle"
+								]
+							},
+							"lattice_oak": {
+								"textures": [
+									"textures/block/lattice_oak"
+								]
+							},
+							"lattice_spruce": {
+								"textures": [
+									"textures/block/lattice_spruce"
+								]
+							},
+							"lattice_white": {
+								"textures": [
+									"textures/block/lattice_white"
+								]
+							}
+						},
+						"key": "lattice_white",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/block/lattice_white"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/block/lattice_white"
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

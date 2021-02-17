@@ -1,0 +1,39 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "[Garden] Ghoulcraft BE xx-xx-xx",
+		"description": "§l§3Ignore the warning! §r- Version: xx-xx-xx",
+		"uuid": "bb63fde3-d3f6-481a-acc2-530233594506",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			13,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "9c9cf57b-1d74-49f5-8809-a08269b8a41e",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"version": [
+				1,
+				0,
+				0
+			],
+			"uuid": "7eeb8e1f-cc65-4c16-8f30-11d9f3d797f2"
+		}
+	]
+}

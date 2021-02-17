@@ -1,0 +1,122 @@
+{
+	"file_path": "C:\\Users\\gabri\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\[Garden] Ghoulcraft BE BP\\blocks\\rabbithutch.json",
+	"file_type": "block",
+	"format_version": 1,
+	"file_uuid": "47050b3b_1852_4241_ad30_550ec88a1dc6",
+	"file_version": 11,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.200",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.200",
+					"minecraft:block": {
+						"description": {
+							"identifier": "ghoulcraft:rabbithutch"
+						},
+						"components": {
+							"bridge:simple_geo": {
+								"geometry": "geometry.rabbithutch",
+								"texture": "rabbithutch",
+								"render_method": "blend"
+							},
+							"minecraft:block_light_emission": 0,
+							"minecraft:block_light_absorption": 0,
+							"bridge:rotate_y_on_place": {
+								"flip": true
+							}
+						}
+					}
+				},
+				"key": "minecraft:block",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "ghoulcraft:rabbithutch"
+							},
+							"components": {
+								"bridge:simple_geo": {
+									"geometry": "geometry.rabbithutch",
+									"texture": "rabbithutch",
+									"render_method": "blend"
+								},
+								"minecraft:block_light_emission": 0,
+								"minecraft:block_light_absorption": 0,
+								"bridge:rotate_y_on_place": {
+									"flip": true
+								}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "ghoulcraft:rabbithutch"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "ghoulcraft:rabbithutch"
+							},
+							"components": {
+								"bridge:simple_geo": {
+									"geometry": "geometry.rabbithutch",
+									"texture": "rabbithutch",
+									"render_method": "blend"
+								},
+								"minecraft:block_light_emission": 0,
+								"minecraft:block_light_absorption": 0,
+								"bridge:rotate_y_on_place": {
+									"flip": true
+								}
+							}
+						},
+						"key": "components",
+						"children": [
+							{
+								"open": {
+									"bridge:simple_geo": {
+										"geometry": "geometry.rabbithutch",
+										"texture": "rabbithutch",
+										"render_method": "blend"
+									},
+									"minecraft:block_light_emission": 0,
+									"minecraft:block_light_absorption": 0,
+									"bridge:rotate_y_on_place": {
+										"flip": true
+									}
+								},
+								"key": "bridge:simple_geo",
+								"is_minified": true,
+								"children": {
+									"geometry": "geometry.rabbithutch",
+									"texture": "rabbithutch",
+									"render_method": "blend"
+								}
+							},
+							{
+								"data": "0.0",
+								"key": "minecraft:block_light_emission"
+							},
+							{
+								"data": "0.0",
+								"key": "minecraft:block_light_absorption"
+							},
+							{
+								"key": "bridge:rotate_y_on_place",
+								"is_minified": true,
+								"children": {
+									"flip": true
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}
