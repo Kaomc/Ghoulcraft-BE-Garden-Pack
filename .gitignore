@@ -1,0 +1,16 @@
+# Texts
+*.txt
+
+# Bridge. Caches
+bridge/
+
+# Minecraft Pipelines
+manifest.json
+stable_pack_icon.png
+beta_pack_icon.png
+*.mcaddon
+*.mcpack
+*.mcworld
+
+# Mac
+.DS_Store
