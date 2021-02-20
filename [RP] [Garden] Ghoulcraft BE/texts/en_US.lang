@@ -1,4 +1,4 @@
-##bridge-file-version: #8
+##bridge-file-version: #12
 ##=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 ##Created By: Kao
 ##Contact: https://linktr.ee/kaomc
@@ -92,6 +92,30 @@ tile.ghoulcraft:greenhouse_spruce.name=Spruce Greenhouse
 
 tile.ghoulcraft:gardenbench.name=Garden Bench
 tile.ghoulcraft:fertilizer.name=Fertilizer
+tile.ghoulcraft:wateringcanmetal.name=Watering Can
+tile.ghoulcraft:lawnmower.name=Lawnmower
+tile.ghoulcraft:scarecrow.name=Scarecrow
+
+tile.ghoulcraft:apiary.name=Apiary
+tile.ghoulcraft:apiary_big.name=Big Apiary
+
+tile.ghoulcraft:wheelbarrow_blue.name=Blue Wheelbarrow
+tile.ghoulcraft:wheelbarrow_red.name=Red Wheelbarrow
+
+tile.ghoulcraft:toolrack1.name=Shears & Rake
+tile.ghoulcraft:toolrack2.name=Hoe & Shovel
+tile.ghoulcraft:trowel.name=Plain Trowel
+tile.ghoulcraft:trowel_dirt.name-Trowel in Dirt
+
+tile.ghoulcraft:hose1.name=Ground Hose
+tile.ghoulcraft:hose2.name=Wall Hose
+
+tile.ghoulcraft:pot_stacked1.name=Stacked Pots 1
+tile.ghoulcraft:pot_stacked2.name=Stacked Pots 2
+tile.ghoulcraft:pot_spilled.name=Spilled Pot
+
+tile.ghoulcraft:rabbithutch.name=Rabbit Hutch
+tile.ghoulcraft:coop.name=Chicken Coop
 
 ##Shutters
 
@@ -154,6 +178,27 @@ tile.ghoulcraft:awning_red.name=Red Awning
 tile.ghoulcraft:awning_white.name=White Awning
 tile.ghoulcraft:awning_yellow.name=Yellow Awning
 
+##Lattices
+
+tile.ghoulcraft:lattice_acacia_empty.name=Empty Acacia Lattice
+tile.ghoulcraft:lattice_birch_empty.name=Empty Birch Lattice
+tile.ghoulcraft:lattice_dark_empty.name=Empty Dark Oak Lattice
+tile.ghoulcraft:lattice_jungle_empty.name=Empty Jungle Lattice
+tile.ghoulcraft:lattice_oak_empty.name=Empty Oak Lattice
+tile.ghoulcraft:lattice_spruce_empty.name=Empty Spruce Lattice
+tile.ghoulcraft:lattice_white_empty.name=Empty White Lattice
+
+tile.ghoulcraft:lattice_acacia_flowered.name=Flowered Acacia Lattice
+tile.ghoulcraft:lattice_birch_flowered.name=Flowered Birch Lattice
+tile.ghoulcraft:lattice_dark_flowered.name=Flowered Dark Oak Lattice
+tile.ghoulcraft:lattice_jungle_flowered.name=Flowered Jungle Lattice
+tile.ghoulcraft:lattice_oak_flowered.name=Flowered Oak Lattice
+tile.ghoulcraft:lattice_spruce_flowered.name=Flowered Spruce Lattice
+tile.ghoulcraft:lattice_white_flowered.name=Flowered White Lattice
+
 ##UI
 
-notice.text=Thank you for using Ghoulcraft BE! To see the catalog of all items in this pack, visit: §3https://ghoulcraft.com/bedrock-catalog
+tip.apiarybig= §3Tip§r: Big Apiaries should be placed on top of a block - You can put it above of Barrels, Droppers, etc. to make the illusion that it's functional. §cIt should not be placed directly on the ground!§r
+tip.greenhouse= §3Tip§r: Greenhouses should be placed on top of a block - You can put it above a crop for example. §cIt should not be placed directly on the ground!§r
+tip.gardenbench= §3Tip§r: You can place a trapdoor inside the right table surface of the Garden Bench to make it functional.
+tip.rabbithutch= §3Tip§r: You can place a trapdoor inside the right floor of the Rabbit Hutch to make it solid/place things inside.
