@@ -1,4 +1,4 @@
-//bridge-file-version: #8
+//bridge-file-version: #11
 {
 	"format_version": [
 		1,
@@ -361,5 +361,104 @@
 	},
 	"ghoulcraft:greenhouse_spruce": {
 		"sound": "wood"
+	},
+	"ghoulcraft:lattice_acacia_empty": {
+		"sound": "wood"
+	},
+	"ghoulcraft:lattice_birch_empty": {
+		"sound": "wood"
+	},
+	"ghoulcraft:lattice_dark_empty": {
+		"sound": "wood"
+	},
+	"ghoulcraft:lattice_jungle_empty": {
+		"sound": "wood"
+	},
+	"ghoulcraft:lattice_oak_empty": {
+		"sound": "wood"
+	},
+	"ghoulcraft:lattice_spruce_empty": {
+		"sound": "wood"
+	},
+	"ghoulcraft:lattice_white_empty": {
+		"sound": "wood"
+	},
+	"ghoulcraft:lattice_acacia_flowered": {
+		"sound": "wood"
+	},
+	"ghoulcraft:lattice_birch_flowered": {
+		"sound": "wood"
+	},
+	"ghoulcraft:lattice_dark_flowered": {
+		"sound": "wood"
+	},
+	"ghoulcraft:lattice_jungle_flowered": {
+		"sound": "wood"
+	},
+	"ghoulcraft:lattice_oak_flowered": {
+		"sound": "wood"
+	},
+	"ghoulcraft:lattice_spruce_flowered": {
+		"sound": "wood"
+	},
+	"ghoulcraft:lattice_white_flowered": {
+		"sound": "wood"
+	},
+	"ghoulcraft:apiary": {
+		"sound": "wood"
+	},
+	"ghoulcraft:apiary_big": {
+		"sound": "wood"
+	},
+	"ghoulcraft:wheelbarrow_red": {
+		"sound": "metal"
+	},
+	"ghoulcraft:wheelbarrow_blue": {
+		"sound": "metal"
+	},
+	"ghoulcraft:toolrack1": {
+		"sound": "metal"
+	},
+	"ghoulcraft:toolrack2": {
+		"sound": "metal"
+	},
+	"ghoulcraft:trowel": {
+		"sound": "metal"
+	},
+	"ghoulcraft:trowel_dirt": {
+		"sound": "metal"
+	},
+	"ghoulcraft:wateringcanmetal": {
+		"sound": "metal"
+	},
+	"ghoulcraft:lawnmower": {
+		"sound": "wood"
+	},
+	"ghoulcraft:hose1": {
+		"sound": "coral"
+	},
+	"ghoulcraft:hose2": {
+		"sound": "coral"
+	},
+	"ghoulcraft:pot_stacked1": {
+		"sound": "brick"
+	},
+	"ghoulcraft:pot_stacked2": {
+		"sound": "brick"
+	},
+	"ghoulcraft:pot_spilled": {
+		"sound": "brick"
+	},
+	"ghoulcraft:scarecrow": {
+		"sound": "scaffolding"
+	},
+	"ghoulcraft:rabbithutch": {
+		"sound": "wood"
+	},
+	"ghoulcraft:coop": {
+		"sound": "wood"
+	},
+	"ghoulcraft:honey_jar": {
+		"sound": "glass"
 	}
 }
