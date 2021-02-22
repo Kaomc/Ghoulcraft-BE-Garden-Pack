@@ -1,4 +1,4 @@
-##bridge-file-version: #12
+##bridge-file-version: #15
 ##=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 ##Created By: Kao
 ##Contact: https://linktr.ee/kaomc
@@ -105,7 +105,7 @@ tile.ghoulcraft:wheelbarrow_red.name=Red Wheelbarrow
 tile.ghoulcraft:toolrack1.name=Shears & Rake
 tile.ghoulcraft:toolrack2.name=Hoe & Shovel
 tile.ghoulcraft:trowel.name=Plain Trowel
-tile.ghoulcraft:trowel_dirt.name-Trowel in Dirt
+tile.ghoulcraft:trowel_dirt.name=Trowel in Dirt
 
 tile.ghoulcraft:hose1.name=Ground Hose
 tile.ghoulcraft:hose2.name=Wall Hose
@@ -200,5 +200,6 @@ tile.ghoulcraft:lattice_white_flowered.name=Flowered White Lattice
 
 tip.apiarybig= §3Tip§r: Big Apiaries should be placed on top of a block - You can put it above of Barrels, Droppers, etc. to make the illusion that it's functional. §cIt should not be placed directly on the ground!§r
 tip.greenhouse= §3Tip§r: Greenhouses should be placed on top of a block - You can put it above a crop for example. §cIt should not be placed directly on the ground!§r
-tip.gardenbench= §3Tip§r: You can place a trapdoor inside the right table surface of the Garden Bench to make it functional.
-tip.rabbithutch= §3Tip§r: You can place a trapdoor inside the right floor of the Rabbit Hutch to make it solid/place things inside.
+tip.gardenbench= §3Tip§r: You can place a trapdoor inside the right table surface of the Garden Bench to make it functional.§r
+tip.rabbithutch= §3Tip§r: You can place a trapdoor inside the right floor of the Rabbit Hutch to make it solid/place things inside.§r
+tip.toolrack= §3Tip§r: Tool Racks should be placed on a wall with a space below it. §cIt should not be placed directly on the ground!§r
