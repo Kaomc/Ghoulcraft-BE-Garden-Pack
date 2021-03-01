@@ -1,4 +1,4 @@
-##bridge-file-version: #15
+##bridge-file-version: #16
 ##=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 ##Created By: Kao
 ##Contact: https://linktr.ee/kaomc
@@ -95,6 +95,7 @@ tile.ghoulcraft:fertilizer.name=Fertilizer
 tile.ghoulcraft:wateringcanmetal.name=Watering Can
 tile.ghoulcraft:lawnmower.name=Lawnmower
 tile.ghoulcraft:scarecrow.name=Scarecrow
+tile.ghoulcraft:honey_jar.name=Honey Jar
 
 tile.ghoulcraft:apiary.name=Apiary
 tile.ghoulcraft:apiary_big.name=Big Apiary
