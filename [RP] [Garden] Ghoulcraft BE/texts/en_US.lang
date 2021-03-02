@@ -1,4 +1,4 @@
-##bridge-file-version: #16
+##bridge-file-version: #17
 ##=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 ##Created By: Kao
 ##Contact: https://linktr.ee/kaomc
@@ -12,17 +12,17 @@
 
 tile.ghoulcraft:barrelgreengrape.name=Barrel of Green Grapes
 tile.ghoulcraft:barrelpurplegrape.name=Barrel of Purple Grapes
-tile.ghoulcraft:barrelredgrape.name=Barrel of Red Grapes 
+tile.ghoulcraft:barrelredgrape.name=Barrel of Red Grapes
 
 tile.ghoulcraft:grapes_green.name=Green Grape Vines
 tile.ghoulcraft:grapes_purple.name=Purple Grape Vines
 tile.ghoulcraft:grapes_red.name=Red Grape Vines
 
-tile.ghoulcraft:blueberrybush.name=Blueberry Bush 
+tile.ghoulcraft:blueberrybush.name=Blueberry Bush
 tile.ghoulcraft:strawberrybush.name=Strawberry Bush
 
 tile.ghoulcraft:chili.name=Chili Crop
-tile.ghoulcraft:cornfield.name=Cornfield 
+tile.ghoulcraft:cornfield.name=Cornfield
 tile.ghoulcraft:eggplant.name=Eggplant Crop
 tile.ghoulcraft:jalapeno.name=Jalapeno Crop
 tile.ghoulcraft:lettuce.name=Lettuce Crop
@@ -31,14 +31,14 @@ tile.ghoulcraft:tomato.name=Tomato Trellis
 
 tile.ghoulcraft:pepper_green.name=Green Pepper Crop
 tile.ghoulcraft:pepper_red.name=Red Pepper Crop
-tile.ghoulcraft:pepper_yellow.name=Yellow Pepper Crop 
+tile.ghoulcraft:pepper_yellow.name=Yellow Pepper Crop
 
 tile.ghoulcraft:sprouts1.name=Tall Seedlings
 tile.ghoulcraft:sprouts2.name=Wheat Seedlings
 tile.ghoulcraft:sprouts3.name=Grass Seedlings
 
-tile.ghoulcraft:succulents_green.name=Purple Succulents
-tile.ghoulcraft:succulents_purple.name=Green Succulents
+tile.ghoulcraft:succulents_green.name=Green Succulents
+tile.ghoulcraft:succulents_purple.name=Purple Succulents
 tile.ghoulcraft:succulents_tray.name=Tray of Succulents
 tile.ghoulcraft:pinksucc_double.name=Tall Pink Succulents
 tile.ghoulcraft:pinksucc_shortfat.name=Short Pink Succulent
@@ -50,12 +50,12 @@ tile.ghoulcraft:cattail.name=Cattail
 ##Decorations
 
 tile.ghoulcraft:picnic_basket.name=Picnic Basket
-tile.ghoulcraft:basket_empty.name=Empty Basket 
+tile.ghoulcraft:basket_empty.name=Empty Basket
 
 tile.ghoulcraft:picnicblanket_pink.name=Pink Picnic Blanket
 tile.ghoulcraft:picnicblanket_red.name=Red Picnic Blanket
 
-tile.ghoulcraft:stump_mossy_acacia.name=Mossy Acacia Stump 
+tile.ghoulcraft:stump_mossy_acacia.name=Mossy Acacia Stump
 tile.ghoulcraft:stump_mossy_birch.name=Mossy Birch Stump
 tile.ghoulcraft:stump_mossy_dark.name=Mossy Dark Oak Stump
 tile.ghoulcraft:stump_mossy_jungle.name=Mossy Jungle Stump
@@ -199,7 +199,7 @@ tile.ghoulcraft:lattice_white_flowered.name=Flowered White Lattice
 
 ##UI
 
-tip.apiarybig= §3Tip§r: Big Apiaries should be placed on top of a block - You can put it above of Barrels, Droppers, etc. to make the illusion that it's functional. §cIt should not be placed directly on the ground!§r
+tip.apiarybig= §3Tip§r: Big Apiaries should be placed on top of a block - You can put it above of Barrels, Beehives, etc. to make the illusion that it's functional. §cIt should not be placed directly on the ground!§r
 tip.greenhouse= §3Tip§r: Greenhouses should be placed on top of a block - You can put it above a crop for example. §cIt should not be placed directly on the ground!§r
 tip.gardenbench= §3Tip§r: You can place a trapdoor inside the right table surface of the Garden Bench to make it functional.§r
 tip.rabbithutch= §3Tip§r: You can place a trapdoor inside the right floor of the Rabbit Hutch to make it solid/place things inside.§r
