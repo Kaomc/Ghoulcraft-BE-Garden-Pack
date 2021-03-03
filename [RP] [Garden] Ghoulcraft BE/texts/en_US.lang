@@ -1,4 +1,4 @@
-##bridge-file-version: #17
+##bridge-file-version: #18
 ##=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 ##Created By: Kao
 ##Contact: https://linktr.ee/kaomc
@@ -89,6 +89,7 @@ tile.ghoulcraft:greenhouse_dark.name=Dark Oak Greenhouse
 tile.ghoulcraft:greenhouse_jungle.name=Jungle Greenhouse
 tile.ghoulcraft:greenhouse_oak.name=Oak Greenhouse
 tile.ghoulcraft:greenhouse_spruce.name=Spruce Greenhouse
+tile.ghoulcraft:greenhouse_white.name=White Greenhouse
 
 tile.ghoulcraft:gardenbench.name=Garden Bench
 tile.ghoulcraft:fertilizer.name=Fertilizer
