@@ -1,4 +1,4 @@
-//bridge-file-version: #23
+//bridge-file-version: #24
 {
 	"resource_pack_name": "bridgeRP",
 	"texture_name": "atlas.terrain",
@@ -559,6 +559,11 @@
 		"greenhouse_spruce": {
 			"textures": [
 				"textures/block/greenhouse_spruce"
+			]
+		},
+		"greenhouse_white": {
+			"textures": [
+				"textures/block/greenhouse_white"
 			]
 		},
 		"apiary": {

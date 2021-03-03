@@ -1,4 +1,4 @@
-//bridge-file-version: #11
+//bridge-file-version: #12
 {
 	"format_version": [
 		1,
@@ -360,6 +360,9 @@
 		"sound": "wood"
 	},
 	"ghoulcraft:greenhouse_spruce": {
+		"sound": "wood"
+	},
+	"ghoulcraft:greenhouse_white": {
 		"sound": "wood"
 	},
 	"ghoulcraft:lattice_acacia_empty": {
