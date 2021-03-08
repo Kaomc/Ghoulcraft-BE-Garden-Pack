@@ -1,4 +1,4 @@
-//bridge-file-version: #31
+//bridge-file-version: #32
 {
 	"minecraft:block": {
 		"description": {
@@ -62,7 +62,7 @@
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "shutter_oak",
-					"render_method": "blend"
+					"render_method": "opaque"
 				}
 			},
 			"minecraft:pick_collision": {
