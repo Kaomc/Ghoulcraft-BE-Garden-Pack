@@ -1,4 +1,4 @@
-//bridge-file-version: #14
+//bridge-file-version: #1
 {
 	"minecraft:block": {
 		"description": {
@@ -10,7 +10,7 @@
 					5
 				]
 			},
-			"identifier": "ghoulcraft:lattice_birch_flowered"
+			"identifier": "ghoulcraft:honey_jar"
 		},
 		"permutations": [
 			{
@@ -58,35 +58,35 @@
 			"minecraft:on_player_placing": {
 				"event": "bridge:update_rotation"
 			},
-			"minecraft:geometry": "geometry.flattice",
+			"minecraft:geometry": "geometry.honey_jar",
 			"minecraft:material_instances": {
 				"*": {
-					"texture": "lattice_birch",
-					"render_method": "alpha_test"
+					"texture": "honey_jar",
+					"render_method": "blend"
 				}
 			},
 			"minecraft:pick_collision": {
 				"origin": [
-					-8,
+					-3,
 					0,
-					-8
+					-3
 				],
 				"size": [
-					16,
-					0,
-					16
+					6,
+					8,
+					6
 				]
 			},
 			"minecraft:entity_collision": {
 				"origin": [
+					-3,
 					0,
-					0,
-					0
+					-3
 				],
 				"size": [
-					0,
-					0,
-					0
+					6,
+					8,
+					6
 				]
 			},
 			"minecraft:block_light_emission": 0,

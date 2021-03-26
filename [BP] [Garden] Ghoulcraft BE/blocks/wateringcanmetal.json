@@ -1,4 +1,4 @@
-//bridge-file-version: #3
+//bridge-file-version: #5
 {
 	"minecraft:block": {
 		"description": {
@@ -62,31 +62,31 @@
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "wateringcanmetal",
-					"render_method": "blend"
+					"render_method": "opaque"
 				}
 			},
 			"minecraft:pick_collision": {
 				"origin": [
-					-5,
+					-8,
 					0,
-					-4
+					-5
 				],
 				"size": [
-					11,
-					8,
-					5
+					16,
+					14,
+					10
 				]
 			},
 			"minecraft:entity_collision": {
 				"origin": [
-					-5,
+					-8,
 					0,
-					-4
+					-5
 				],
 				"size": [
-					11,
-					8,
-					5
+					16,
+					14,
+					10
 				]
 			},
 			"minecraft:block_light_emission": 0,

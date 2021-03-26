@@ -1,4 +1,4 @@
-//bridge-file-version: #13
+//bridge-file-version: #14
 {
 	"minecraft:block": {
 		"description": {
@@ -62,7 +62,7 @@
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "awning_red",
-					"render_method": "blend"
+					"render_method": "opaque"
 				}
 			},
 			"minecraft:block_light_emission": 0,

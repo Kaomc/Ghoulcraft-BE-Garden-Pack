@@ -1,4 +1,4 @@
-//bridge-file-version: #7
+//bridge-file-version: #9
 {
 	"minecraft:block": {
 		"description": {
@@ -67,26 +67,26 @@
 			},
 			"minecraft:pick_collision": {
 				"origin": [
-					-6,
+					-8,
 					0,
-					-5
+					-6
 				],
 				"size": [
-					12,
-					10,
-					10
+					16,
+					13,
+					12
 				]
 			},
 			"minecraft:entity_collision": {
 				"origin": [
+					-8,
 					0,
-					0,
-					0
+					-6
 				],
 				"size": [
-					0,
-					0,
-					0
+					16,
+					13,
+					12
 				]
 			},
 			"minecraft:block_light_emission": 0,

@@ -1,2 +1,2 @@
-#bridge-file-version: #31
-give @s ghoulcraft:plaintrowel
+#bridge-file-version: #32
+give @s ghoulcraft:trowel

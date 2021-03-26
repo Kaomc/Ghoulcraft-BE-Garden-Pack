@@ -1,4 +1,4 @@
-//bridge-file-version: #31
+//bridge-file-version: #33
 {
 	"minecraft:block": {
 		"description": {
@@ -58,11 +58,11 @@
 			"minecraft:on_player_placing": {
 				"event": "bridge:update_rotation"
 			},
-			"minecraft:geometry": "geometry.shutter_wood",
+			"minecraft:geometry": "geometry.shutter_wooden",
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "shutter_spruce",
-					"render_method": "blend"
+					"render_method": "opaque"
 				}
 			},
 			"minecraft:pick_collision": {

@@ -1,4 +1,4 @@
-//bridge-file-version: #20
+//bridge-file-version: #24
 {
 	"resource_pack_name": "bridgeRP",
 	"texture_name": "atlas.terrain",
@@ -561,6 +561,11 @@
 				"textures/block/greenhouse_spruce"
 			]
 		},
+		"greenhouse_white": {
+			"textures": [
+				"textures/block/greenhouse_white"
+			]
+		},
 		"apiary": {
 			"textures": [
 				"textures/block/apiary"
@@ -659,6 +664,11 @@
 		"lattice_white": {
 			"textures": [
 				"textures/block/lattice_white"
+			]
+		},
+		"honey_jar": {
+			"textures": [
+				"textures/block/ghoulcraft/honey_jar"
 			]
 		}
 	}

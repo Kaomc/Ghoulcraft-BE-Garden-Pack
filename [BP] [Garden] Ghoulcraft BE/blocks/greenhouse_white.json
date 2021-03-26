@@ -1,4 +1,4 @@
-//bridge-file-version: #16
+//bridge-file-version: #22
 {
 	"minecraft:block": {
 		"description": {
@@ -10,7 +10,7 @@
 					5
 				]
 			},
-			"identifier": "ghoulcraft:lattice_jungle_flowered"
+			"identifier": "ghoulcraft:greenhouse_white"
 		},
 		"permutations": [
 			{
@@ -58,13 +58,15 @@
 			"minecraft:on_player_placing": {
 				"event": "bridge:update_rotation"
 			},
-			"minecraft:geometry": "geometry.flattice",
+			"minecraft:geometry": "geometry.greenhouse",
 			"minecraft:material_instances": {
 				"*": {
-					"texture": "lattice_jungle",
-					"render_method": "alpha_test"
+					"texture": "greenhouse_white",
+					"render_method": "blend"
 				}
 			},
+			"minecraft:block_light_emission": 0,
+			"minecraft:block_light_absorption": 0,
 			"minecraft:pick_collision": {
 				"origin": [
 					-8,
@@ -73,24 +75,22 @@
 				],
 				"size": [
 					16,
-					0,
+					1,
 					16
 				]
 			},
 			"minecraft:entity_collision": {
 				"origin": [
+					-8,
 					0,
-					0,
-					0
+					-8
 				],
 				"size": [
-					0,
-					0,
-					0
+					16,
+					1,
+					16
 				]
-			},
-			"minecraft:block_light_emission": 0,
-			"minecraft:block_light_absorption": 0
+			}
 		},
 		"events": {
 			"bridge:update_rotation": {
@@ -100,5 +100,5 @@
 			}
 		}
 	},
-	"format_version": "1.16.200"
+	"format_version": "1.16.100"
 }
