@@ -48,6 +48,6 @@ MissGhouls does not give permission to use her models in mods, to upload Ghoulcr
 
 Have any suggestions, a bug, or something helpful? Visit the [Ghoulcraft BE Discord Server](https://discord.gg/3QSE4mDqQd).
 
-**\*The porter/developer of Ghoulcraft BE is currently not accepting contributions from other developers. Stay tuned.**
+**Contributions are welcome. If you're familiar with GitHub, please do a pull request.**
 
 **\*Do not download Ghoulcraft from any other websites, as we cannot guarantee the safety of the link!**
