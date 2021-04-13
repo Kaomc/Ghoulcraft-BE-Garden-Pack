@@ -5,7 +5,6 @@
 bridge/
 
 # Minecraft Pipelines
-manifest.json
 stable_pack_icon.png
 beta_pack_icon.png
 *.mcaddon
