@@ -188,22 +188,22 @@
 		},
 		"veggies2": {
 			"textures": [
-				"textures/block/ghoulcraft/veggies2"
+				"textures/block/veggies2"
 			]
 		},
 		"picnicblanket_red": {
 			"textures": [
-				"textures/block/ghoulcraft/picnicblanket"
+				"textures/block/picnicblanket"
 			]
 		},
 		"picnicblanket_pink": {
 			"textures": [
-				"textures/block/ghoulcraft/picnicblanket_pink"
+				"textures/block/picnicblanket_pink"
 			]
 		},
 		"basket": {
 			"textures": [
-				"textures/block/ghoulcraft/picnicbasket"
+				"textures/block/picnicbasket"
 			]
 		},
 		"sprouts1": {
@@ -253,12 +253,12 @@
 		},
 		"cattail": {
 			"textures": [
-				"textures/block/ghoulcraft/cattail"
+				"textures/block/cattail"
 			]
 		},
 		"fertilizer": {
 			"textures": [
-				"textures/block/ghoulcraft/fertilizer"
+				"textures/block/fertilizer"
 			]
 		},
 		"gardenbench": {
@@ -593,7 +593,7 @@
 		},
 		"trowel": {
 			"textures": [
-				"textures/block/ghoulcraft/trowel"
+				"textures/block/trowel"
 			]
 		},
 		"wateringcanmetal": {
@@ -668,7 +668,7 @@
 		},
 		"honey_jar": {
 			"textures": [
-				"textures/block/ghoulcraft/honey_jar"
+				"textures/block/honey_jar"
 			]
 		}
 	}
