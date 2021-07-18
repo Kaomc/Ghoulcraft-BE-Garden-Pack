@@ -1,9 +1,0 @@
-gamerule sendcommandfeedback false
-give @s ghoulcraft:lattice_acacia_empty
-give @s ghoulcraft:lattice_birch_empty
-give @s ghoulcraft:lattice_dark_empty
-give @s ghoulcraft:lattice_jungle_empty
-give @s ghoulcraft:lattice_oak_empty
-give @s ghoulcraft:lattice_spruce_empty
-give @s ghoulcraft:lattice_white_empty
-gamerule sendcommandfeedback true
