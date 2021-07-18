@@ -1,12 +1,7 @@
-# Texts
-*.txt
-
 # Bridge. Caches
 bridge/
 
 # Minecraft Pipelines
-stable_pack_icon.png
-beta_pack_icon.png
 *.mcaddon
 *.mcpack
 *.mcworld
