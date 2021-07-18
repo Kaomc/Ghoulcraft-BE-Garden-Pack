@@ -1,0 +1,11 @@
+gamerule sendcommandfeedback false
+give @s ghoulcraft:lattice_acacia_empty
+give @s ghoulcraft:greenhouse_birch
+give @s ghoulcraft:greenhouse_dark
+give @s ghoulcraft:greenhouse_jungle
+give @s ghoulcraft:greenhouse_oak
+give @s ghoulcraft:greenhouse_spruce
+give @s ghoulcraft:greenhouse_white
+tellraw @s[tag=!joinedplayer] {"rawtext":[{"translate":"tip.greenhouse"}]}
+playsound random.orb @s
+gamerule sendcommandfeedback true

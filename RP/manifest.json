@@ -1,0 +1,39 @@
+{
+	"format_version": "1",
+	"header": {
+		"name": "[Garden] Ghoulcraft BE v1.1.1-beta",
+		"description": "§l§3Ignore the warning! §r- Version: 1.1.1-beta",
+		"uuid": 7,
+		"version": [
+			1,
+			1,
+			1
+		],
+		"min_engine_version": [
+			1,
+			8,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "83425478-7846-494b-9b21-b7ea2289d4a7",
+			"version": [
+				1,
+				1,
+				1
+			]
+		}
+	],
+	"dependencies": {
+		"undefined": {
+			"version": [
+				1,
+				1,
+				1
+			],
+			"uuid": "bb63fde3-d3f6-481a-acc2-530233594506"
+		}
+	}
+}

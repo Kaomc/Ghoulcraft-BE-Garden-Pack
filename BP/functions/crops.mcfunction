@@ -1,0 +1,11 @@
+gamerule sendcommandfeedback false
+give @s ghoulcraft:jalapeno
+give @s ghoulcraft:chili
+give @s ghoulcraft:tomato
+give @s ghoulcraft:pepper_green
+give @s ghoulcraft:pepper_yellow
+give @s ghoulcraft:pepper_red
+give @s ghoulcraft:eggplant
+give @s ghoulcraft:onion
+give @s ghoulcraft:lettuce
+gamerule sendcommandfeedback true
